@@ -12,7 +12,7 @@ Our labs are located in three locations.
 
 (1) The University of Tokyo, Hongo Campus
 Engineering Building #1, Room #408
-7-3-1&nbsp; Hongo, Bunkyo-ku, Tokyo
+7-3-1 Hongo, Bunkyo-ku, Tokyo
 113-8654 JAPAN
 
 (2) The University of Tokyo, Asano Campus
@@ -25,12 +25,12 @@ Information Technology Center, Room #T304
 6-2-3 Kashiwa-no Ha, Kashiwa-shi, Chiba
 277-0882 JAPAN
 
-E-mail : sekiya@sekiya-lab.info
+E-mail : {{site.email}}
 
 
 ## For Those Who Want to Join Us
 
-Graduate schools and undergraduate schools have differences. Graduate school is a place to learn specialized knowledge and making own research. Therefore, unless you find what you have fun and interest in your research, you will not spend meaningful days in our laboratory. And also, you will have difficulties and troubles during your research. &nbsp;Our laboratory welcomes the students who have the mind to overcome the difficulties and make good research together.
+Graduate schools and undergraduate schools have differences. Graduate school is a place to learn specialized knowledge and making own research. Therefore, unless you find what you have fun and interest in your research, you will not spend meaningful days in our laboratory. And also, you will have difficulties and troubles during your research. Our laboratory welcomes the students who have the mind to overcome the difficulties and make good research together.
 
 
 ## Maps

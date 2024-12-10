@@ -5,7 +5,7 @@ permalink: /nml/
 ---
 # NML
 ## NML (Network Machine&nbsp; **Muscle** Learning) Project
-### [![](https://www.sekiya-lab.info/wp-content/uploads/2017/04/NML-300x123.png)](https://www.sekiya-lab.info/wp-content/uploads/2017/04/NML.png)NML means Network Muscle Learning, not Machine Learning!
+### ![NML]({{site.baseurl}}/images/NML.png) NML means Network Muscle Learning, not Machine Learning!
 
 **For more information, please refer to [https://nml.ai/](https://nml.ai/)**
 
@@ -25,11 +25,11 @@ Cybersecurity, which aims at protecting cyber spaces from cyber threats, becomes
 
 In this collaborative research, The University of Tokyo (U-TOKYO) team has experience in constructing cyber security big data. The Nara Institute of Science and Technology (NAIST) team is the expert in extracting trends from SNS (Twitter) data. In this collaborative research, all members utilized a partner’s experience, analyze cyber security big data, and develop both reactive and proactive algorithms. As a prototype of the analysis, Figure 1 shows the procedure of this analysis. In this figure, the data collection is performed at NAIST and the data is transferred and stored in U-TOKYO storage. In U-TOKYO we try to analyze the relationship with the SNS data and traffic data, then try to make predictions of attacks.
 
-[![](https://www.sekiya-lab.info/wp-content/uploads/2017/04/Figure-SNS.png)](https://www.sekiya-lab.info/wp-content/uploads/2017/04/Figure-SNS.png)
+![Figure SNS]({{site.baseurl}}/images/nml_figure-SNS.png)
 
 A method for data mining is a key issue for extracting knowledge from datasets. We try to run the convolutional neural network (CNN) to solve this issue as shown figure below. For example, we would like to analyze with deep learning for network traffic and time series prediction. A packet itself is a variable length, however, each packet can be interpreted as 5 tuples information, e.g., source address, destination address, source port number, destination port number, and time. It means, we can generate a high-dimensional matrix. We will recognize outliers, tendency, and predominant patterns in order to predict potential cyber attacks from cyber threat big data.
 
-[![](https://www.sekiya-lab.info/wp-content/uploads/2017/04/figure1-1-1024x505.png)](https://www.sekiya-lab.info/wp-content/uploads/2017/04/figure1-1.png)
+![Figure CNN]({{site.baseurl}}/images/nml_figure1-1.png)
 
 ### Implementation
 
