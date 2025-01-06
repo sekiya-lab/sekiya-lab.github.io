@@ -32,7 +32,7 @@ Third, it aims to **develop and demonstrate new cyber defense mechanisms** that 
 
 These three aspects will be analyzed both from an infrastructure perspective (networks and large computing infrastructures) and endpoints (smartphones and browsers). The results of the NECOMA project will be showcased in demonstrators that will highlight the innovations of the project and prepare exploitation.
 
-[![necoma]({{site.baseurl}}/images/necoma.png)]({{site.baseurl}}/images/necoma.png)
+[![necoma]({{ "assets/images/necoma.png" | relative_url }})]({{ "assets/images/necoma.png" | relative_url }})
 
 ## Next Generation NSP Consortium (Finished)
 
@@ -44,7 +44,9 @@ These three aspects will be analyzed both from an infrastructure perspective (ne
 
 Over 30 companies are joined the consortium and work for evaluating software-defined technologies and virtualization architecture for network services.
 
-[![NSP Goals]({{site.baseurl}}/images/NSP6.jpg)]({{site.baseurl}}/images/NSP6.jpg)[![NSP Collaboration]({{site.baseurl}}/images/NSP11.jpg)]({{site.baseurl}}/images/NSP11.jpg)[![NSP Concepts]({{site.baseurl}}/images/NSP7.jpg)]({{site.baseurl}}/images/NSP7.jpg)
+[![NSP Goals]({{ "assets/images/NSP6.jpg" | relative_url }})]({{ "assets/images/NSP6.jpg" | relative_url }})
+[![NSP Collaboration]({{ "assets/images/NSP11.jpg" | relative_url }})]({{ "assets/images/NSP11.jpg" | relative_url }})
+[![NSP Concepts]({{ "assets/images/NSP7.jpg" | relative_url }})]({{ "assets/images/NSP7.jpg" | relative_url }})
 
 ## Distributed Cloud Computing
 
@@ -52,23 +54,24 @@ We are working on the fundamental and infrastructure technologies for Cloud Comp
 
 We have papers about resource management, distributed filesystem, and network virtualization.
 
-[![closer-poster]({{site.baseurl}}/images/closer-poster.png)]({{site.baseurl}}/images/closer-poster.png)[![yanjue-poster]({{site.baseurl}}/images/yanjue-poster.png)]({{site.baseurl}}/images/yanjue-poster.png)
+[![closer-poster]({{ "assets/images/closer-poster.png" | relative_url }})]({{ "assets/images/closer-poster.png" | relative_url }})
+[![yanjue-poster]({{ "assets/images/yanjue-poster.png" | relative_url }})]({{ "assets/images/yanjue-poster.png" | relative_url }})
 
-[![WIDE Cloud overview]({{site.baseurl}}/images/widecolud_overview.jpg)]({{site.baseurl}}/images/widecolud_overview.jpg)
-[![WIDE Cloud tech]({{site.baseurl}}/images/widecolud_tech.jpg)]({{site.baseurl}}/images/widecolud_tech.jpg)
-[![WIDE Cloud challenges]({{site.baseurl}}/images/widecolud_challenges.jpg)]({{site.baseurl}}/images/widecolud_challenges.jpg)
-[![WIDE Cloud wcc]({{site.baseurl}}/images/widecolud_wcc.jpg)]({{site.baseurl}}/images/widecolud_wcc.jpg)
+[![WIDE Cloud overview]({{ "assets/images/widecolud_overview.jpg" | relative_url }})]({{ "assets/images/widecolud_overview.jpg" | relative_url }})
+[![WIDE Cloud tech]({{ "assets/images/widecolud_tech.jpg" | relative_url }})]({{ "assets/images/widecolud_tech.jpg" | relative_url }})
+[![WIDE Cloud challenges]({{ "assets/images/widecolud_challenges.jpg" | relative_url }})]({{ "assets/images/widecolud_challenges.jpg" | relative_url }})
+[![WIDE Cloud wcc]({{ "assets/images/widecolud_wcc.jpg" | relative_url }})]({{ "assets/images/widecolud_wcc.jpg" | relative_url }})
 
 ## Software Defined Networking (SDN)
 
 We are working on SDN for management of data center networks, cloud networks and carrier networks. One of the most effective usages of SDN is a path control of carrier networks and enterprise networks. The project called “[GINEW](http://wp.ginew.net/)” is an Open Source SDN implementation developed with [KEIO University](https://www.sfc.keio.ac.jp/) and [NICT](https://testbed.nict.go.jp/). GINEW stands for “General Integrated Network Engineering Workbox”. The SDN framework can control VPLS path on several routers and provide GUI for users. Administrators and users can switch VPLS path easily and avoid conflictions of VPLS configs.
 
-[![ginew1]({{site.baseurl}}/images/ginew1.jpg)]({{site.baseurl}}/images/ginew1.jpg)
-[![ginew2]({{site.baseurl}}/images/ginew2.jpg)]({{site.baseurl}}/images/ginew2.jpg)
+[![ginew1]({{ "assets/images/ginew1.jpg" | relative_url }}]({{ "assets/images/ginew1.jpg" | relative_url }})
+[![ginew2]({{ "assets/images/ginew2.jpg" | relative_url }})]({{ "assets/images/ginew2.jpg" | relative_url }})
 
 Also we are working on applying OpenFlow for GeoCasting. The proposed usage is a emergency notification of earthquake prediction. If the OpenFlow switch has the Geoinformation such as GPS, we can send an emergency notification with a range of latitude and longitude. The basic idea and elementary results of simulation was published as papers.
 
-[![Area Limited Multicast with OpenFlow]({{site.baseurl}}/images/Area-Limited-Multicast-with-OpenFlow.png)]({{site.baseurl}}/images/Area-Limited-Multicast-with-OpenFlow.png)
+[![Area Limited Multicast with OpenFlow]({{ "assets/images/Area-Limited-Multicast-with-OpenFlow.png" | relative_url }})]({{ "assets/images/Area-Limited-Multicast-with-OpenFlow.png" | relative_url }})
 
 ## DNSSEC Simulator
 
@@ -86,4 +89,5 @@ The network is an infrastructure for communications. It should be redundant and 
 
 We also join in the operation and research of Internet Exchanges, called [DIX-IE / NSPIXP-3](http://nspixp.wide.ad.jp/). In these IXes, we try to collect real and practical statistical data and try to apply the data for research of DDoS mitigation.
 
-![ShowNet Topology]({{site.baseurl}}/images/shownet_topology.jpg) ![Network Equipment]({{site.baseurl}}/images/network_equipment.jpg)
+![ShowNet Topology]({{ "assets/images/shownet_topology.jpg" | relative_url }})
+![Network Equipment]({{ "assets/images/network_equipment.jpg" | relative_url }})
