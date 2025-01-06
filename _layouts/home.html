@@ -1,8 +1,24 @@
 ---
 layout: base
 ---
+
+<div class="page-head container px-4 py-5">
+  <div class="row justify-content-between text">
+    <div class="col-lg-7 col-sm-6">
+
+      {{ content }}
+
+    </div>
+    <div class="col-lg-5 col-sm-6"><img src="{{ "/assets/images/main_icon.png" | relative_url }}" alt="network" class="img-fluid" loading="lazy"></div>
+  </div>
+</div>
+
+
+
 <div class="container">
+  <div class="row mb-3 g-4">
 
-  {{ content }}
+    {%- include home-cards.html -%}
 
+  </div>
 </div>

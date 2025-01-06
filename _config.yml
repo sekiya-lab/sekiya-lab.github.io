@@ -39,6 +39,32 @@ header_pages:
   - relations.md
   - researches.md
 
+home_cards:
+  - title: Cloud Computing
+    description: Cloud Computing is important services and technologies for recent IT infrastructures. We develop Cloud Controller for distributed IaaS Cloud and try to integrate resource management mechanism, distributed filesystem, and network migration using LISP and VXLAN technologies. The testbed is an inter-university IaaS cloud, called "WIDE Cloud".
+    links:
+      - title: WIDE Cloud
+        url: https://wcc.wide.ad.jp/
+        image: wide-cloud-logo.png
+  - title: SDN and NFV
+    description: Software Defined Network (SDN) is an important and hot keyword in DataCenter Network and Dedicated Network. We are working on effective management in DataCenter and Cloud Networks using OpenFlow from both of theoretical and practical approaches. Also, we establish the project for proof of concepts of Network Functions Virtualization (NFV). We evaluate and develop the elemental technologies architecture of NFV. 
+    links:
+      - title: NSP Consortium
+        url: http://www.next-nsp.org/
+        image: nsp-mini.png
+      - title: GINEW
+        url: http://www.ginew.net/
+        image: ginew-logo-s.png
+  - title: Cyber Security
+    description: Cyber Security is important and imperative for the Internet. To against cyber attacks we join the EU-JP international collaboration, <a href="http://www.necoma-project.eu/">NECOMA Project</a>, of multi-layer resilient cyber-defence. In the project, we collect and analyze multi-layer datasets and develop resilient firewall. Also, DNSSEC is an important security mechanism to protect DNS queries from spoofing and attacking. We are developing DNSSEC simulator for accurate estimation of DNSSEC impacts.
+    links:
+      - title: NECOMA Project
+        url: http://www.necoma-project.eu
+        image: necoma-logo.png
+      - title: DNSSEC Simulator Project
+        url: https://dnssec.sekiya-lab.info
+        image: l_033s.png
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

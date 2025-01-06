@@ -1,0 +1,28 @@
+{%- assign cards = site.home_cards -%}
+{%- for card in cards -%}
+<div class="col-lg-4">
+  <div class="transparent rounded-3 p-4">
+    <h2 class="fw-normal mb-3">{{ card.title | escape }}</h2>
+    <p>
+      {{ card.description }}
+    </p>
+
+    {%- assign card_links = card.links -%}
+    {%- for card_link in card_links -%}
+
+      {%- if card_link.url -%}
+      <a href="{{ card_link.url }}" target="_blank">
+      {%- endif -%}
+      {%- if card_link.image -%}
+        <img src="{{ "assets/images/" | relative_url }}{{ card_link.image }}" alt="{{ card_link.title }}" class="img-fluid">
+      {%- else -%}
+        {{ card_link.title }}
+      {%- endif -%}
+      {%- if card_link.url -%}
+      </a>
+      {%- endif -%}
+
+    {%- endfor -%}
+  </div>
+</div>
+{%- endfor -%}
