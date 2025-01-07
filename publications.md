@@ -307,14 +307,14 @@ permalink: /publications/
 - 関谷 勇司 : 「SDN と NFV の連携が実現する世界 — 新たなネットワークアーキテクチャ –」, 株式会社ナノオプト・メディア, SDI Conference 2015, 東京コンファレンスセンター, 2015年2月
 - 関谷 勇司 : 「SDN と NFV が生み出す次世代のネットワークアーキテクチャ」, 沖縄オープンラボラトリ, Okinawa Open Days 2014, 沖縄県市町村自治会館, 2014年12月 (招待講演)
 - 関谷 勇司 : 「SDN と NFV が生み出す新たなネットワークアーキテクチャの可能性」, アルカテル・ルーセント, NFV Israel 2014, ウエスティンホテル東京, 2014年12月 (基調講演)
-- 関谷 勇司, 中村 遼 : 「NFV の現在(いま)と未来 — NFV + SDN なサービスを夢見る –」, MPLS Japan 2014, [http://www.mpls.jp/](http://www.mpls.jp/), 東京大学武田ホール, 2014年11月
+- 関谷 勇司, 中村 遼 : 「NFV の現在(いま)と未来 — NFV + SDN なサービスを夢見る –」, MPLS Japan 2014, [http://www.mpls.jp/](http://www.mpls.jp/{: target="_blank" }), 東京大学武田ホール, 2014年11月
 - 関谷 勇司 : 「SDN + NFV が切り開く新たなネットワークサービスアーキテクチャの世界」, SDN Japan 2014, 恵比寿ガーデンホール, 2014年10月 (招待講演)
-- Yuji Sekiya : “PIX-IE : Programmable Internet eXchange in Edo”, Asia-Pacific Information Infrastructure (APII) Workshop 2014, [http://www.jgn.nict.go.jp/english/reports/presentation/APII\_ws-2014.html,](http://www.jgn.nict.go.jp/english/reports/presentation/APII_ws-2014.html) Osaka Japan, October 2014.
+- Yuji Sekiya : “PIX-IE : Programmable Internet eXchange in Edo”, Asia-Pacific Information Infrastructure (APII) Workshop 2014, [http://www.jgn.nict.go.jp/english/reports/presentation/APII\_ws-2014.html,](http://www.jgn.nict.go.jp/english/reports/presentation/APII_ws-2014.html){: target="_blank" } Osaka Japan, October 2014.
 - Yuji Sekiya : “Introduction of PIX-IE (Programmable Internet eXchange)”, Asia Pacific Internet Exchange Association (APIX), APNIC 38, Brisbane, September 2014.
 - 関谷 勇司 : “PIX-IE : Programmable Internet eXchange”, WIDE Project 2014 秋の報告会 , 東京, 2014年9月
 - 関谷 勇司 : “次世代 NSP コンソーシアムの設立に関して”, WIDE Project 2014 秋の報告会, 東京, 2014年9月
 - 関谷 勇司 : “データセンターネットワークの来るべきアーキテクチャ”, データセンターコンファレンス 2014 Autumn, 株式会社インプレス, 2014年9月
-- Yuji Sekiya : “NECOMA Project objectives and results”, Japan-EU Workshop on Cloud Computing Research, [http://www.ocean-project.eu/bin/view/Events/EU\_Japan\_Cloud\_Research\_31\_July\_2014](http://www.ocean-project.eu/bin/view/Events/EU_Japan_Cloud_Research_31_July_2014), Tokyo, July 2014.
+- Yuji Sekiya : “NECOMA Project objectives and results”, Japan-EU Workshop on Cloud Computing Research, [http://www.ocean-project.eu/bin/view/Events/EU\_Japan\_Cloud\_Research\_31\_July\_2014](http://www.ocean-project.eu/bin/view/Events/EU_Japan_Cloud_Research_31_July_2014){: target="_blank" }, Tokyo, July 2014.
 - 関谷 勇司, 妙中 雄三, 大江 将史 : “多重仮想化を用いた大容量サービス環境の遠隔地への高速転送に関する研究”, 第6回学祭大規模情報基盤共同利用・共同研究拠点シンポジウム, ポスターセッション, THE GRAND HALL 品川, 2014年7月10日
 - 関谷 勇司 : “Interop Tokyo 2014 に見る SDN と NFV の現状”, 第15回インターネットテクノロジーワークショップ, 日本ソフトウェア科学会 インターネットテクノロジ研究会 (WIT2014) (招待講演) , 青森県, 2014年6月26日
 - 関谷 勇司 : “SDN がもたらすネットワークとサービスの変革”, ロードバランサの最適な活用, リバーベッドテクノロジー, 基調講演, UDX カンファレンス, 2014年6月
@@ -373,7 +373,7 @@ permalink: /publications/
 - Yuji Sekiya :”Passive and active DNS measurements”, 4th CAIDA-WIDE Workshop, San Diego Supercomputer Center, Aug. 2004
 - Yuji Sekiya : “Comparison of active and passive measurement results”, 3rd CAIDA-WIDE Workshop, Information Sciences Institute, Apr. 2004
 - Yuji Sekiya : “Passive and Active measurements of Root DNS”, 2nd CAIDA-WIDE Workshop, Information Sciences Institute, Nov. 2003
-- Yuji Sekiya, Bill Manning :”[DNS delegation oriented RWhois server](http://web.sfc.wide.ad.jp/~sekiya/MGP/brittle-apricot/index.html)“, APRICOT 2000, Seoul, Mar. 2000
+- Yuji Sekiya, Bill Manning :”[DNS delegation oriented RWhois server](http://web.sfc.wide.ad.jp/~sekiya/MGP/brittle-apricot/index.html){: target="_blank" }“, APRICOT 2000, Seoul, Mar. 2000
 
 ## Committee
 

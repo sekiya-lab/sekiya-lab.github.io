@@ -56,7 +56,7 @@ home_cards:
         url: http://www.ginew.net/
         image: ginew-logo-s.png
   - title: Cyber Security
-    description: Cyber Security is important and imperative for the Internet. To against cyber attacks we join the EU-JP international collaboration, <a href="http://www.necoma-project.eu/">NECOMA Project</a>, of multi-layer resilient cyber-defence. In the project, we collect and analyze multi-layer datasets and develop resilient firewall. Also, DNSSEC is an important security mechanism to protect DNS queries from spoofing and attacking. We are developing DNSSEC simulator for accurate estimation of DNSSEC impacts.
+    description: Cyber Security is important and imperative for the Internet. To against cyber attacks we join the EU-JP international collaboration, <a href="http://www.necoma-project.eu/" target="_blank">NECOMA Project</a>, of multi-layer resilient cyber-defence. In the project, we collect and analyze multi-layer datasets and develop resilient firewall. Also, DNSSEC is an important security mechanism to protect DNS queries from spoofing and attacking. We are developing DNSSEC simulator for accurate estimation of DNSSEC impacts.
     links:
       - title: NECOMA Project
         url: http://www.necoma-project.eu
