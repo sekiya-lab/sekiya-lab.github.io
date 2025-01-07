@@ -4,7 +4,6 @@ title: Researches
 permalink: /researches/
 ---
 
-# Researches
 SEKIYA laboratory is now working on the following topics.
 
 ## Ongoing Projects
@@ -16,9 +15,11 @@ SEKIYA laboratory is now working on the following topics.
 - AITAC 共同研究「次世代 IT インフラエンジニア育成に向けたカリキュラムと演習環境の構築」
 - 東京大学 SI センター「サイバーセキュリティ教育プログラム」
 
+---
+
 ## Next Architecture of Mobile Core Network
 
-TBD
+(TBD)
 
 ## Network Cyber Security
 

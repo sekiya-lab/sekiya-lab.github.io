@@ -4,7 +4,6 @@ title: Relations
 permalink: /relations/
 ---
 
-# Relations
 ## Collaborating Laboratories
 
 - [Nakamura and Takase Laboratory](http://www.hal.ipc.i.u-tokyo.ac.jp/index-e.html) in The Univ. of Tokyo, Graduate School of Information Science and Technology

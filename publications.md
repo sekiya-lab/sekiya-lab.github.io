@@ -4,7 +4,6 @@ title: Publications & Activities
 permalink: /publications/
 ---
 
-# Publications & Activities
 # Journal
 
 - Satoshi Okada, Kunio Akashi, Daisuke Miyamoto, Yuji Sekiya, Hideki Takase, Hiroshi Nakamura, “Memory-saving LDoS Attacker Detection Algorithms in Zigbee Network”, Journal of Information Processing, 2023, Vol. 31 , pp. 537–549, DOI : doi.org/10.2197/ipsjjip.31.537, September 2023.

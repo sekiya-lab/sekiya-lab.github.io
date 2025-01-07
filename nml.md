@@ -3,9 +3,11 @@ layout: page
 title: NML
 permalink: /nml/
 ---
-# NML
-## NML (Network Machine&nbsp; **Muscle** Learning) Project
-### ![NML]({{ "assets/images/NML.png" | relative_url }}) NML means Network Muscle Learning, not Machine Learning!
+
+NML (Network Machine **Muscle** Learning) Project
+{: .display-6 }
+
+![NML]({{ "assets/images/NML.png" | relative_url }}) NML means Network Muscle Learning, not Machine Learning!
 
 **For more information, please refer to [https://nml.ai/](https://nml.ai/)**
 

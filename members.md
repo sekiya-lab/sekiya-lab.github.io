@@ -4,7 +4,6 @@ title: Members
 permalink: /members/
 ---
 
-# Members
 ## Faculty
 
 - Yuji Sekiya (Professor)

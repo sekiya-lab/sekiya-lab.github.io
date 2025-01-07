@@ -4,6 +4,10 @@ a, h1, h2, h3, h4, h5 {
     color: #172a75;
 }
 
+img {
+    max-width: 100%;
+}
+
 .logo {
     width: 315px;
 }
