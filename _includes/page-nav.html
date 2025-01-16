@@ -1,0 +1,7 @@
+{%- assign page_id = page.name | remove: '.md' -%}
+{%- assign page_navs = site.page_navs[page_id] -%}
+<nav class="nav flex-column sticky-top">
+  {%- for page_nav in page_navs -%}
+  <a class="nav-link" aria-current="page" href="#{{ page_nav.id }}">{{ page_nav.title }}</a>
+  {%- endfor -%}
+</nav>

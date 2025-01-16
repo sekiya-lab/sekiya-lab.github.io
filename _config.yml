@@ -39,6 +39,29 @@ header_pages:
   - relations.md
   - researches.md
 
+page_navs:
+  publications:
+    - title: Journal
+      id: journal
+    - title: Book and Article
+      id: book-and-article
+    - title: International Conference
+      id: international-conference
+    - title: Domestic Conference
+      id: domestic-conference
+    - title: Master Thesis of Sekiya Lab. Graduates
+      id: master-thesis-of-sekiya-lab-graduates
+    - title: Internet-Draft
+      id: internet-draft
+    - title: Patent
+      id: patent
+    - title: Presentation
+      id: presentation
+    - title: Committee
+      id: committee
+    - title: Award
+      id: award
+
 home_cards:
   - title: Cloud Computing
     description: Cloud Computing is important services and technologies for recent IT infrastructures. We develop Cloud Controller for distributed IaaS Cloud and try to integrate resource management mechanism, distributed filesystem, and network migration using LISP and VXLAN technologies. The testbed is an inter-university IaaS cloud, called "WIDE Cloud".

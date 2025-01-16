@@ -1,0 +1,23 @@
+---
+layout: base
+---
+<div class="container">
+  <div class="row">
+
+    <h1>{{ page.title | escape }}</h1>
+
+    <div id="navbar-scrollspy" class="col-3 d-none d-sm-block order-last">
+
+      {%- include page-nav.html -%}
+
+    </div>
+
+    <div class="col-12 col-sm-9">
+      <div data-bs-spy="scroll" data-bs-target="#navbar-scrollspy" data-bs-smooth-scroll="true">
+
+        {{ content }}
+
+      </div>
+    </div>
+  </div>
+</div>
