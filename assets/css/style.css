@@ -10,12 +10,23 @@ img {
 
 .logo {
     width: 315px;
+    max-width: 315px;
 }
 
 main.home {
-    background: url("../images/main_bg01.png");
+    background: url("../images/main_bg.png");
     background-size: 100%;
     background-repeat: no-repeat;
+}
+
+main.page {
+    background-image: url("../images/bg.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.page-title {
+    color: #ffffff;
 }
 
 .page-head {
@@ -32,28 +43,37 @@ main.home {
 
 @media (max-width: 991px) and (min-width: 768px) {
     main.home {
-	background: linear-gradient(rgba(42, 42, 40, 0) 20%, #2a2a28 25%, #2a2a28 50%, rgba(255, 255, 255, 0.5) 60%), url("../images/main_bg01.png");
-	background-size: 100%;
+	background: linear-gradient(rgba(86, 89, 95, 0) 30%, rgba(86, 89, 95, 0.8) 40%, rgba(86, 89, 95, 0.8) 50%, rgba(255, 255, 255, 0.5) 60%), url("../images/main_bg.png");
+	background-size: auto;
 	background-repeat: no-repeat;
+	background-position: center top;
     }
 }
 
 @media (max-width: 767px) and (min-width: 576px) {
     main.home {
-	background: linear-gradient(rgba(42, 42, 40, 0) 8%, #2a2a28 25%, #2a2a28 50%, rgba(255, 255, 255, 0.5) 60%), url("../images/main_bg01.png");
-	background-size: 100%;
+	background: linear-gradient(rgba(86, 89, 95, 0) 30%, rgba(86, 89, 95, 0.8) 35%, rgba(86, 89, 95, 0.8) 50%, rgba(255, 255, 255, 0.5) 60%), url("../images/main_bg.png");
+	background-size: auto;
 	background-repeat: no-repeat;
+	background-position: center top;
     }
 }
 
 @media (max-width: 575px) {
     .logo {
 	width: 250px;
+	max-width: 250px;
     }
 
     main.home {
-	background: linear-gradient(rgba(42, 42, 40, 0) 3%, #2a2a28 5%, #2a2a28 40%, rgba(255, 255, 255, 0.5) 50%), url("../images/main_bg01.png");
-	background-size: 100%;
+	background: linear-gradient(rgba(86, 89, 95, 0) 25%, rgba(86, 89, 95, 0.8) 30%, rgba(86, 89, 95, 0.8) 40%, rgba(255, 255, 255, 0.5) 55%), url("../images/main_bg.png");
+	background-size: auto;
 	background-repeat: no-repeat;
+	background-position: center top;
+    }
+
+    main.page {
+	background-size: auto;
+	background-position: center top;
     }
 }
