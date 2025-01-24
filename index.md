@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Home
+page_class_name: home
 ---
 
 # Yuji Sekiya Laboratory

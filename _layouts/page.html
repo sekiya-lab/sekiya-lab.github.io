@@ -2,9 +2,15 @@
 layout: base
 ---
 <div class="container">
+  <div class="row">
 
-  <h1>{{ page.title | escape }}</h1>
+    <h1 class="page-title pt-5 pb-5">{{ page.title | escape }}</h1>
 
-  {{ content }}
+    <div class="col transparent rounded-3 p-4">
 
+      {{ content }}
+
+    </div>
+
+  </div>
 </div>
