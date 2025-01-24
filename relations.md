@@ -13,6 +13,8 @@ permalink: /relations/
 - [Fukuda Laboratory](http://www.fukuda-lab.org/) in National Institute of Informatics
 - [NAIST iplab](https://iplab.naist.jp/index.php.en)
 
+---
+
 ## Participating Projects
 
 - [WIDE Project](https://www.wide.ad.jp/)
@@ -29,6 +31,8 @@ permalink: /relations/
 - [Network Muscle Learning Project (NML Project)](https://nml.ai/)
 - [AI RAN Alliance](https://ai-ran.org/)
 
+---
+
 ## Joint Research Partners
 
 - [Softbank](https://www.softbank.jp/)
@@ -40,6 +44,8 @@ permalink: /relations/
 - [TOYOTA Motor Corporation](https://toyota.jp/)
 - [Clwit Corporation](https://clwit.co.jp/)
 - [National Institute of Advanced Industrial Science and Technology (AIST)](https://www.aist.go.jp/)
+
+---
 
 ## Past Projects
 

@@ -1,27 +1,32 @@
 ---
 layout: page
 title: NML
-permalink: /nml/
+permalink: /researches/nml/
 ---
 
-NML (Network Machine **Muscle** Learning) Project
-{: .display-6 }
+## NML (Network Machine **Muscle** Learning) Project
 
 ![NML]({{ "assets/images/NML.png" | relative_url }}) NML means Network Muscle Learning, not Machine Learning!
 
-**For more information, please refer to [https://nml.ai/](https://nml.ai/)**
+**For more information, please refer to [https://nml.ai/](https://nml.ai/){: target="_blank" }**
+
+
+---
 
 ### Goal and Background
 
 The goal of this project is to make proactive cyber defenses in real-time using various and massive log datasets from network infrastructure and social information. In this research, we analyze cyber security big data in order to prevent facilities from cyber threats. This research is characterized by employing both a reactive and proactive approach to cyber security. The former can be defined as an analysis of cyber threats with online learning algorithms, and the latter is the prediction of future attacks. The key feature of our reactive approach is to extract knowledge from cyber security big data with a convolutional neural network. In our prior work, we have construct cybersecurity big data, which is comprised of sampled network traffic, DNS queries, a content of malware and malicious websites, and so much on. We have also attempted to extract knowledge from the big data with some heuristics. For example, our collected data were compared with the discrimination threshold which was given by our empirical network operations. Herein, we will adopt deep learning technologies to extract knowledge automatically. In addressing to mitigate cyber threats and risks, a proactive approach is also necessary as well as a reactive approach, due to that cyber security needs to be handled in a very short time period. If we could predict future cyber threats targeted to us and/or our organization, we would earn time for incident handling; it will helpful for providing better cyber security against the threats. The key feature of our proactive approach is to analyze social data with natural language processing and machine learning algorithms. The motivation of the attacks explicitly exists and is along with social trends. Text information extracted by SNS such as Twitter, Facebook, blogs, and news articles can be regarded as the context of the message was reflected by this motivation.
 
+
 ### Member
 
 This project is joint research of The University of Tokyo, Nara Institute of Science and Technology (NAIST), Tokyo Institute of Technology (TITECH), and IIJ Innovation Institute.
 
+
 ### Significance of this Research
 
 Cybersecurity, which aims at protecting cyber spaces from cyber threats, becomes one of the most important research agenda for the Internet. Enterprise organizations must be aware of devices that connect to an enterprise network and should collect information for detecting network anomaly. However, due to the rapid increase in the numbers of connected devices, organizations are required to analyze the large amount and diverse kinds of data in real-time; the analysis results should be outputted with small latency. Our work aims at solving this issue by the reactive and proactive approach. The former is needs to be automated, and artificial intelligence has begun to garner attention. However, due to the limited computational resources, it is really hard to analyze cyber threat big data in short time period. Our research aims at solving this issue by employing JHPCN’s analysis nodes. The latter, a proactive approach is necessary for each time for preparing against cyber attacks. Our social analysis will reveal the attacker’s motivation and future generated threats.
+
 
 ### Example Idea
 
@@ -33,7 +38,8 @@ A method for data mining is a key issue for extracting knowledge from datasets. 
 
 ![Figure CNN]({{ "assets/images/nml_figure1-1.png" | relative_url }})
 
+
 ### Implementation
 
-As a first our achievement, we publish a simple and fast full-text search engine for massive system datasets. The name is “Hayabusa”. You can get and try the software from [this site](https://github.com/hirolovesbeer/hayabusa). In this software, we provide the base infrastructure for analysis of massive datasets.
+As a first our achievement, we publish a simple and fast full-text search engine for massive system datasets. The name is “Hayabusa”. You can get and try the software from [this site](https://github.com/hirolovesbeer/hayabusa){: target="_blank" }. In this software, we provide the base infrastructure for analysis of massive datasets.
 

@@ -4,9 +4,9 @@ title: Researches
 permalink: /researches/
 ---
 
-SEKIYA laboratory is now working on the following topics.
-
 ## Ongoing Projects
+
+SEKIYA laboratory is now working on the following topics.
 
 - NEDO 受託研究「[ポスト5G情報通信システム基盤強化研究開発事業／ポスト5G情報通信システムの開発（委託）／（f1）超分散コンピューティング技術の開発](https://www.nedo.go.jp/activities/ZZJP_100172.html){: target="_blank" }」
 - 科研費「トラフィックの時空間特徴量に着目した DoS 耐性 IoT アーキテクチャの研究」
@@ -15,11 +15,16 @@ SEKIYA laboratory is now working on the following topics.
 - AITAC 共同研究「次世代 IT インフラエンジニア育成に向けたカリキュラムと演習環境の構築」
 - 東京大学 SI センター「サイバーセキュリティ教育プログラム」
 
+- [NML Project](/researches/nml/)
+
 ---
 
 ## Next Architecture of Mobile Core Network
 
 (TBD)
+
+
+---
 
 ## Network Cyber Security
 
@@ -33,7 +38,10 @@ Third, it aims to **develop and demonstrate new cyber defense mechanisms** that 
 
 These three aspects will be analyzed both from an infrastructure perspective (networks and large computing infrastructures) and endpoints (smartphones and browsers). The results of the NECOMA project will be showcased in demonstrators that will highlight the innovations of the project and prepare exploitation.
 
-[![necoma]({{ "assets/images/necoma.png" | relative_url }})]({{ "assets/images/necoma.png" | relative_url }})
+[![necoma]({{ "assets/images/necoma.png" | relative_url }}){: style="max-width: 400px;" }]({{ "assets/images/necoma.png" | relative_url }})
+
+
+---
 
 ## Next Generation NSP Consortium (Finished)
 
@@ -45,34 +53,43 @@ These three aspects will be analyzed both from an infrastructure perspective (ne
 
 Over 30 companies are joined the consortium and work for evaluating software-defined technologies and virtualization architecture for network services.
 
-[![NSP Goals]({{ "assets/images/NSP6.jpg" | relative_url }})]({{ "assets/images/NSP6.jpg" | relative_url }})
-[![NSP Collaboration]({{ "assets/images/NSP11.jpg" | relative_url }})]({{ "assets/images/NSP11.jpg" | relative_url }})
-[![NSP Concepts]({{ "assets/images/NSP7.jpg" | relative_url }})]({{ "assets/images/NSP7.jpg" | relative_url }})
+[![NSP Goals]({{ "assets/images/NSP6.jpg" | relative_url }}){: style="max-width: 400px;" }]({{ "assets/images/NSP6.jpg" | relative_url }})
+[![NSP Collaboration]({{ "assets/images/NSP11.jpg" | relative_url }}){: style="max-width: 400px;" }]({{ "assets/images/NSP11.jpg" | relative_url }})
+[![NSP Concepts]({{ "assets/images/NSP7.jpg" | relative_url }}){: style="max-width: 400px;" }]({{ "assets/images/NSP7.jpg" | relative_url }})
+
+
+---
 
 ## Distributed Cloud Computing
 
-We are working on the fundamental and infrastructure technologies for Cloud Computing. Especially resource management, distributed filesystem, monitoring method, and network virtualization. Integrating these research, we construct and operate the real IaaS cloud, called “[WIDE Cloud](http://wcc.wide.ad.jp/{: target="_blank" })“. The testbed is IaaS cloud and distributed IaaS cloud connected universities and research organizations. The cloud is a testbed for new technologies and ideas with the actual user. Over hundred users are joined in the cloud and operate over 400 VMs. The project was originally supported by [Ministry of Economy, Trade and Industry](https://www.meti.go.jp/){: target="_blank" }. The project is collaborated with [NICT](https://www.nict.go.jp/){: target="_blank" }/[JGN-X](https://testbed.nict.go.jp/){: target="_blank" }.
+We are working on the fundamental and infrastructure technologies for Cloud Computing. Especially resource management, distributed filesystem, monitoring method, and network virtualization. Integrating these research, we construct and operate the real IaaS cloud, called "[WIDE Cloud](http://wcc.wide.ad.jp/){: target="_blank" })". The testbed is IaaS cloud and distributed IaaS cloud connected universities and research organizations. The cloud is a testbed for new technologies and ideas with the actual user. Over hundred users are joined in the cloud and operate over 400 VMs. The project was originally supported by [Ministry of Economy, Trade and Industry](https://www.meti.go.jp/){: target="_blank" }. The project is collaborated with [NICT](https://www.nict.go.jp/){: target="_blank" }/[JGN-X](https://testbed.nict.go.jp/){: target="_blank" }.
 
 We have papers about resource management, distributed filesystem, and network virtualization.
 
-[![closer-poster]({{ "assets/images/closer-poster.png" | relative_url }})]({{ "assets/images/closer-poster.png" | relative_url }})
-[![yanjue-poster]({{ "assets/images/yanjue-poster.png" | relative_url }})]({{ "assets/images/yanjue-poster.png" | relative_url }})
+[![closer-poster]({{ "assets/images/closer-poster.png" | relative_url }}){: style="max-width: 400px;" }]({{ "assets/images/closer-poster.png" | relative_url }})
+[![yanjue-poster]({{ "assets/images/yanjue-poster.png" | relative_url }}){: style="max-width: 400px;" }]({{ "assets/images/yanjue-poster.png" | relative_url }})
 
-[![WIDE Cloud overview]({{ "assets/images/widecolud_overview.jpg" | relative_url }})]({{ "assets/images/widecolud_overview.jpg" | relative_url }})
-[![WIDE Cloud tech]({{ "assets/images/widecolud_tech.jpg" | relative_url }})]({{ "assets/images/widecolud_tech.jpg" | relative_url }})
-[![WIDE Cloud challenges]({{ "assets/images/widecolud_challenges.jpg" | relative_url }})]({{ "assets/images/widecolud_challenges.jpg" | relative_url }})
-[![WIDE Cloud wcc]({{ "assets/images/widecolud_wcc.jpg" | relative_url }})]({{ "assets/images/widecolud_wcc.jpg" | relative_url }})
+[![WIDE Cloud overview]({{ "assets/images/widecolud_overview.jpg" | relative_url }}){: style="max-width: 400px;" }]({{ "assets/images/widecolud_overview.jpg" | relative_url }})
+[![WIDE Cloud tech]({{ "assets/images/widecolud_tech.jpg" | relative_url }}){: style="max-width: 400px;" }]({{ "assets/images/widecolud_tech.jpg" | relative_url }})
+[![WIDE Cloud challenges]({{ "assets/images/widecolud_challenges.jpg" | relative_url }}){: style="max-width: 400px;" }]({{ "assets/images/widecolud_challenges.jpg" | relative_url }})
+[![WIDE Cloud wcc]({{ "assets/images/widecolud_wcc.jpg" | relative_url }}){: style="max-width: 400px;" }]({{ "assets/images/widecolud_wcc.jpg" | relative_url }})
+
+
+---
 
 ## Software Defined Networking (SDN)
 
-We are working on SDN for management of data center networks, cloud networks and carrier networks. One of the most effective usages of SDN is a path control of carrier networks and enterprise networks. The project called “[GINEW](http://wp.ginew.net/{: target="_blank" })” is an Open Source SDN implementation developed with [KEIO University](https://www.sfc.keio.ac.jp/){: target="_blank" } and [NICT](https://testbed.nict.go.jp/{: target="_blank" }). GINEW stands for “General Integrated Network Engineering Workbox”. The SDN framework can control VPLS path on several routers and provide GUI for users. Administrators and users can switch VPLS path easily and avoid conflictions of VPLS configs.
+We are working on SDN for management of data center networks, cloud networks and carrier networks. One of the most effective usages of SDN is a path control of carrier networks and enterprise networks. The project called "[GINEW](http://wp.ginew.net/){: target="_blank" }" is an Open Source SDN implementation developed with [KEIO University](https://www.sfc.keio.ac.jp/){: target="_blank" } and [NICT](https://testbed.nict.go.jp/){: target="_blank" }. GINEW stands for “General Integrated Network Engineering Workbox”. The SDN framework can control VPLS path on several routers and provide GUI for users. Administrators and users can switch VPLS path easily and avoid conflictions of VPLS configs.
 
-[![ginew1]({{ "assets/images/ginew1.jpg" | relative_url }}]({{ "assets/images/ginew1.jpg" | relative_url }})
-[![ginew2]({{ "assets/images/ginew2.jpg" | relative_url }})]({{ "assets/images/ginew2.jpg" | relative_url }})
+[![ginew1]({{ "assets/images/ginew1.jpg" | relative_url }}){: style="max-width: 400px;" }]({{ "assets/images/ginew1.jpg" | relative_url }})
+[![ginew2]({{ "assets/images/ginew2.jpg" | relative_url }}){: style="max-width: 400px;" }]({{ "assets/images/ginew2.jpg" | relative_url }})
 
 Also we are working on applying OpenFlow for GeoCasting. The proposed usage is a emergency notification of earthquake prediction. If the OpenFlow switch has the Geoinformation such as GPS, we can send an emergency notification with a range of latitude and longitude. The basic idea and elementary results of simulation was published as papers.
 
-[![Area Limited Multicast with OpenFlow]({{ "assets/images/Area-Limited-Multicast-with-OpenFlow.png" | relative_url }})]({{ "assets/images/Area-Limited-Multicast-with-OpenFlow.png" | relative_url }})
+[![Area Limited Multicast with OpenFlow]({{ "assets/images/Area-Limited-Multicast-with-OpenFlow.png" | relative_url }}){: style="max-width: 400px;" }]({{ "assets/images/Area-Limited-Multicast-with-OpenFlow.png" | relative_url }})
+
+
+---
 
 ## DNSSEC Simulator
 
@@ -84,11 +101,14 @@ The project has its [project page](https://dnssec.sekiya-lab.info/){: target="_b
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GUUurmUNdds?si=Jp-73vUM-35Y0tD5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+---
+
 ### Network Architecture, Operation, and Management
 
 The network is an infrastructure for communications. It should be redundant and flexible for users. It also should be manageable and feasible for network administrators and operators. We are working on the automation of network management, monitoring, and troubleshooting. We positively join the events for testing interoperability of new network technologies such as [Interop Tokyo](https://www.interop.jp/){: target="_blank" }, and make feedback to network vendors and standards body such as [IETF](https://www.ietf.org/){: target="_blank" }. We intend both of theoretical and practical research.
 
 We also join in the operation and research of Internet Exchanges, called [DIX-IE / NSPIXP-3](http://nspixp.wide.ad.jp/){: target="_blank" }. In these IXes, we try to collect real and practical statistical data and try to apply the data for research of DDoS mitigation.
 
-![ShowNet Topology]({{ "assets/images/shownet_topology.jpg" | relative_url }})
-![Network Equipment]({{ "assets/images/network_equipment.jpg" | relative_url }})
+![ShowNet Topology]({{ "assets/images/shownet_topology.jpg" | relative_url }}){: style="max-width: 400px;" }
+![Network Equipment]({{ "assets/images/network_equipment.jpg" | relative_url }}){: style="max-width: 400px;" }

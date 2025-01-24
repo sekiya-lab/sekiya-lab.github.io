@@ -527,7 +527,7 @@ permalink: /publications/
 
 - 関谷 勇司 : 「SDN と NFV が生み出す次世代のネットワークアーキテクチャ」, 沖縄オープンラボラトリ, Okinawa Open Days 2014, 沖縄県市町村自治会館, 2014年12月 (招待講演)
 - 関谷 勇司 : 「SDN と NFV が生み出す新たなネットワークアーキテクチャの可能性」, アルカテル・ルーセント, NFV Israel 2014, ウエスティンホテル東京, 2014年12月 (基調講演)
-- 関谷 勇司, 中村 遼 : 「NFV の現在(いま)と未来 — NFV + SDN なサービスを夢見る –」, MPLS Japan 2014, [http://www.mpls.jp/](http://www.mpls.jp/{: target="_blank" }), 東京大学武田ホール, 2014年11月
+- 関谷 勇司, 中村 遼 : 「NFV の現在(いま)と未来 — NFV + SDN なサービスを夢見る –」, MPLS Japan 2014, [http://www.mpls.jp/](http://www.mpls.jp/){: target="_blank" }, 東京大学武田ホール, 2014年11月
 - 関谷 勇司 : 「SDN + NFV が切り開く新たなネットワークサービスアーキテクチャの世界」, SDN Japan 2014, 恵比寿ガーデンホール, 2014年10月 (招待講演)
 - Yuji Sekiya : “PIX-IE : Programmable Internet eXchange in Edo”, Asia-Pacific Information Infrastructure (APII) Workshop 2014, [http://www.jgn.nict.go.jp/english/reports/presentation/APII\_ws-2014.html,](http://www.jgn.nict.go.jp/english/reports/presentation/APII_ws-2014.html){: target="_blank" } Osaka Japan, October 2014.
 - Yuji Sekiya : “Introduction of PIX-IE (Programmable Internet eXchange)”, Asia Pacific Internet Exchange Association (APIX), APNIC 38, Brisbane, September 2014.
