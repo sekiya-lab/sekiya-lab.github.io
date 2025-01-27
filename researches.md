@@ -38,7 +38,7 @@ Third, it aims to **develop and demonstrate new cyber defense mechanisms** that 
 
 These three aspects will be analyzed both from an infrastructure perspective (networks and large computing infrastructures) and endpoints (smartphones and browsers). The results of the NECOMA project will be showcased in demonstrators that will highlight the innovations of the project and prepare exploitation.
 
-[![necoma]({{ "assets/images/necoma.png" | relative_url }}){: style="max-width: 400px;" }]({{ "assets/images/necoma.png" | relative_url }})
+[![necoma]({{ "assets/images/necoma.png" | relative_url }}){: class="thumb" }]({{ "assets/images/necoma.png" | relative_url }})
 
 
 ---
@@ -53,9 +53,9 @@ These three aspects will be analyzed both from an infrastructure perspective (ne
 
 Over 30 companies are joined the consortium and work for evaluating software-defined technologies and virtualization architecture for network services.
 
-[![NSP Goals]({{ "assets/images/NSP6.jpg" | relative_url }}){: style="max-width: 400px;" }]({{ "assets/images/NSP6.jpg" | relative_url }})
-[![NSP Collaboration]({{ "assets/images/NSP11.jpg" | relative_url }}){: style="max-width: 400px;" }]({{ "assets/images/NSP11.jpg" | relative_url }})
-[![NSP Concepts]({{ "assets/images/NSP7.jpg" | relative_url }}){: style="max-width: 400px;" }]({{ "assets/images/NSP7.jpg" | relative_url }})
+[![NSP Goals]({{ "assets/images/NSP6.jpg" | relative_url }}){: class="thumb" }]({{ "assets/images/NSP6.jpg" | relative_url }})
+[![NSP Collaboration]({{ "assets/images/NSP11.jpg" | relative_url }}){: class="thumb" }]({{ "assets/images/NSP11.jpg" | relative_url }})
+[![NSP Concepts]({{ "assets/images/NSP7.jpg" | relative_url }}){: class="thumb" }]({{ "assets/images/NSP7.jpg" | relative_url }})
 
 
 ---
@@ -66,13 +66,13 @@ We are working on the fundamental and infrastructure technologies for Cloud Comp
 
 We have papers about resource management, distributed filesystem, and network virtualization.
 
-[![closer-poster]({{ "assets/images/closer-poster.png" | relative_url }}){: style="max-width: 400px;" }]({{ "assets/images/closer-poster.png" | relative_url }})
-[![yanjue-poster]({{ "assets/images/yanjue-poster.png" | relative_url }}){: style="max-width: 400px;" }]({{ "assets/images/yanjue-poster.png" | relative_url }})
+[![closer-poster]({{ "assets/images/closer-poster.png" | relative_url }}){: class="thumb" }]({{ "assets/images/closer-poster.png" | relative_url }})
+[![yanjue-poster]({{ "assets/images/yanjue-poster.png" | relative_url }}){: class="thumb" }]({{ "assets/images/yanjue-poster.png" | relative_url }})
 
-[![WIDE Cloud overview]({{ "assets/images/widecolud_overview.jpg" | relative_url }}){: style="max-width: 400px;" }]({{ "assets/images/widecolud_overview.jpg" | relative_url }})
-[![WIDE Cloud tech]({{ "assets/images/widecolud_tech.jpg" | relative_url }}){: style="max-width: 400px;" }]({{ "assets/images/widecolud_tech.jpg" | relative_url }})
-[![WIDE Cloud challenges]({{ "assets/images/widecolud_challenges.jpg" | relative_url }}){: style="max-width: 400px;" }]({{ "assets/images/widecolud_challenges.jpg" | relative_url }})
-[![WIDE Cloud wcc]({{ "assets/images/widecolud_wcc.jpg" | relative_url }}){: style="max-width: 400px;" }]({{ "assets/images/widecolud_wcc.jpg" | relative_url }})
+[![WIDE Cloud overview]({{ "assets/images/widecolud_overview.jpg" | relative_url }}){: class="thumb" }]({{ "assets/images/widecolud_overview.jpg" | relative_url }})
+[![WIDE Cloud tech]({{ "assets/images/widecolud_tech.jpg" | relative_url }}){: class="thumb" }]({{ "assets/images/widecolud_tech.jpg" | relative_url }})
+[![WIDE Cloud challenges]({{ "assets/images/widecolud_challenges.jpg" | relative_url }}){: class="thumb" }]({{ "assets/images/widecolud_challenges.jpg" | relative_url }})
+[![WIDE Cloud wcc]({{ "assets/images/widecolud_wcc.jpg" | relative_url }}){: class="thumb" }]({{ "assets/images/widecolud_wcc.jpg" | relative_url }})
 
 
 ---
@@ -81,12 +81,12 @@ We have papers about resource management, distributed filesystem, and network vi
 
 We are working on SDN for management of data center networks, cloud networks and carrier networks. One of the most effective usages of SDN is a path control of carrier networks and enterprise networks. The project called "[GINEW](http://wp.ginew.net/){: target="_blank" }" is an Open Source SDN implementation developed with [KEIO University](https://www.sfc.keio.ac.jp/){: target="_blank" } and [NICT](https://testbed.nict.go.jp/){: target="_blank" }. GINEW stands for “General Integrated Network Engineering Workbox”. The SDN framework can control VPLS path on several routers and provide GUI for users. Administrators and users can switch VPLS path easily and avoid conflictions of VPLS configs.
 
-[![ginew1]({{ "assets/images/ginew1.jpg" | relative_url }}){: style="max-width: 400px;" }]({{ "assets/images/ginew1.jpg" | relative_url }})
-[![ginew2]({{ "assets/images/ginew2.jpg" | relative_url }}){: style="max-width: 400px;" }]({{ "assets/images/ginew2.jpg" | relative_url }})
+[![ginew1]({{ "assets/images/ginew1.jpg" | relative_url }}){: class="thumb" }]({{ "assets/images/ginew1.jpg" | relative_url }})
+[![ginew2]({{ "assets/images/ginew2.jpg" | relative_url }}){: class="thumb" }]({{ "assets/images/ginew2.jpg" | relative_url }})
 
 Also we are working on applying OpenFlow for GeoCasting. The proposed usage is a emergency notification of earthquake prediction. If the OpenFlow switch has the Geoinformation such as GPS, we can send an emergency notification with a range of latitude and longitude. The basic idea and elementary results of simulation was published as papers.
 
-[![Area Limited Multicast with OpenFlow]({{ "assets/images/Area-Limited-Multicast-with-OpenFlow.png" | relative_url }}){: style="max-width: 400px;" }]({{ "assets/images/Area-Limited-Multicast-with-OpenFlow.png" | relative_url }})
+[![Area Limited Multicast with OpenFlow]({{ "assets/images/Area-Limited-Multicast-with-OpenFlow.png" | relative_url }}){: class="thumb" }]({{ "assets/images/Area-Limited-Multicast-with-OpenFlow.png" | relative_url }})
 
 
 ---
@@ -110,5 +110,5 @@ The network is an infrastructure for communications. It should be redundant and 
 
 We also join in the operation and research of Internet Exchanges, called [DIX-IE / NSPIXP-3](http://nspixp.wide.ad.jp/){: target="_blank" }. In these IXes, we try to collect real and practical statistical data and try to apply the data for research of DDoS mitigation.
 
-![ShowNet Topology]({{ "assets/images/shownet_topology.jpg" | relative_url }}){: style="max-width: 400px;" }
-![Network Equipment]({{ "assets/images/network_equipment.jpg" | relative_url }}){: style="max-width: 400px;" }
+![ShowNet Topology]({{ "assets/images/shownet_topology.jpg" | relative_url }}){: class="thumb" }
+![Network Equipment]({{ "assets/images/network_equipment.jpg" | relative_url }}){: class="thumb" }
