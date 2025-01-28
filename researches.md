@@ -28,7 +28,7 @@ SEKIYA laboratory is now working on the following topics.
 
 ## Network Cyber Security
 
-Network Security is an essential keyword in the current Internet and mandatory for the Internet. We can observe DDoS attacks, spoofing attacks, and brute-force attacks every day. In these surrounding situations, [NECOMA Project](http://www.necoma-project.jp/){: target="_blank" } was started. It is a joint research project of EU and JP. We, SEKIYA lab, join the project from the Japanese side. The project was funded by the [Ministry of Internal Affairs and Communications](https://www.soumu.go.jp/english/){: target="_blank" }. The NECOMA Project was finished in 2017 and [NML Project](https://nml.ai/){: target="_blank" } was started, taking over NECOMA Project. NML Project was funded by [JST CREST](https://www.jst.go.jp/kisoken/crest/project/1111094/1111094_2017.html){: target="_blank" }.
+Network Security is an essential keyword in the current Internet and mandatory for the Internet. We can observe DDoS attacks, spoofing attacks, and brute-force attacks every day. In these surrounding situations, NECOMA Project was started. It is a joint research project of EU and JP. We, SEKIYA lab, join the project from the Japanese side. The project was funded by the [Ministry of Internal Affairs and Communications](https://www.soumu.go.jp/english/){: target="_blank" }. The NECOMA Project was finished in 2017 and [NML Project](https://nml.ai/){: target="_blank" } was started, taking over NECOMA Project. NML Project was funded by [JST CREST](https://www.jst.go.jp/kisoken/crest/project/1111094/1111094_2017.html){: target="_blank" }.
 
 NECOMA addresses the aspect of **data collection** , leveraging past and current work on the topic with the goal to expand these existing mechanisms and orient them towards threat data analysis.
 
@@ -45,7 +45,7 @@ These three aspects will be analyzed both from an infrastructure perspective (ne
 
 ## Next Generation NSP Consortium (Finished)
 
-[This consortium](http://www.next-nsp.org/){: target="_blank" } was established in 2014 and our laboratory is tightly involved in the activities. The goals of this consortium are
+This consortium was established in 2014 and our laboratory is tightly involved in the activities. The goals of this consortium are
 
 - designing the architecture for next generation network infrastructure,
 - evaluating the technologies for software-defined infrastructure, and
@@ -62,7 +62,7 @@ Over 30 companies are joined the consortium and work for evaluating software-def
 
 ## Distributed Cloud Computing
 
-We are working on the fundamental and infrastructure technologies for Cloud Computing. Especially resource management, distributed filesystem, monitoring method, and network virtualization. Integrating these research, we construct and operate the real IaaS cloud, called "[WIDE Cloud](http://wcc.wide.ad.jp/){: target="_blank" })". The testbed is IaaS cloud and distributed IaaS cloud connected universities and research organizations. The cloud is a testbed for new technologies and ideas with the actual user. Over hundred users are joined in the cloud and operate over 400 VMs. The project was originally supported by [Ministry of Economy, Trade and Industry](https://www.meti.go.jp/){: target="_blank" }. The project is collaborated with [NICT](https://www.nict.go.jp/){: target="_blank" }/[JGN-X](https://testbed.nict.go.jp/){: target="_blank" }.
+We are working on the fundamental and infrastructure technologies for Cloud Computing. Especially resource management, distributed filesystem, monitoring method, and network virtualization. Integrating these research, we construct and operate the real IaaS cloud, called "WIDE Cloud". The testbed is IaaS cloud and distributed IaaS cloud connected universities and research organizations. The cloud is a testbed for new technologies and ideas with the actual user. Over hundred users are joined in the cloud and operate over 400 VMs. The project was originally supported by [Ministry of Economy, Trade and Industry](https://www.meti.go.jp/){: target="_blank" }. The project is collaborated with [NICT](https://www.nict.go.jp/){: target="_blank" }/[JGN-X](https://testbed.nict.go.jp/){: target="_blank" }.
 
 We have papers about resource management, distributed filesystem, and network virtualization.
 
@@ -79,7 +79,7 @@ We have papers about resource management, distributed filesystem, and network vi
 
 ## Software Defined Networking (SDN)
 
-We are working on SDN for management of data center networks, cloud networks and carrier networks. One of the most effective usages of SDN is a path control of carrier networks and enterprise networks. The project called "[GINEW](http://wp.ginew.net/){: target="_blank" }" is an Open Source SDN implementation developed with [KEIO University](https://www.sfc.keio.ac.jp/){: target="_blank" } and [NICT](https://testbed.nict.go.jp/){: target="_blank" }. GINEW stands for “General Integrated Network Engineering Workbox”. The SDN framework can control VPLS path on several routers and provide GUI for users. Administrators and users can switch VPLS path easily and avoid conflictions of VPLS configs.
+We are working on SDN for management of data center networks, cloud networks and carrier networks. One of the most effective usages of SDN is a path control of carrier networks and enterprise networks. The project called "GINEW" is an Open Source SDN implementation developed with [KEIO University](https://www.sfc.keio.ac.jp/){: target="_blank" } and [NICT](https://testbed.nict.go.jp/){: target="_blank" }. GINEW stands for “General Integrated Network Engineering Workbox”. The SDN framework can control VPLS path on several routers and provide GUI for users. Administrators and users can switch VPLS path easily and avoid conflictions of VPLS configs.
 
 [![ginew1]({{ "assets/images/ginew1.jpg" | relative_url }}){: class="thumb" }]({{ "assets/images/ginew1.jpg" | relative_url }})
 [![ginew2]({{ "assets/images/ginew2.jpg" | relative_url }}){: class="thumb" }]({{ "assets/images/ginew2.jpg" | relative_url }})
@@ -108,7 +108,7 @@ The project has its [project page](https://dnssec.sekiya-lab.info/){: target="_b
 
 The network is an infrastructure for communications. It should be redundant and flexible for users. It also should be manageable and feasible for network administrators and operators. We are working on the automation of network management, monitoring, and troubleshooting. We positively join the events for testing interoperability of new network technologies such as [Interop Tokyo](https://www.interop.jp/){: target="_blank" }, and make feedback to network vendors and standards body such as [IETF](https://www.ietf.org/){: target="_blank" }. We intend both of theoretical and practical research.
 
-We also join in the operation and research of Internet Exchanges, called [DIX-IE / NSPIXP-3](http://nspixp.wide.ad.jp/){: target="_blank" }. In these IXes, we try to collect real and practical statistical data and try to apply the data for research of DDoS mitigation.
+We also join in the operation and research of Internet Exchanges, called DIX-IE / NSPIXP-3. In these IXes, we try to collect real and practical statistical data and try to apply the data for research of DDoS mitigation.
 
 ![ShowNet Topology]({{ "assets/images/shownet_topology.jpg" | relative_url }}){: class="thumb" }
 ![Network Equipment]({{ "assets/images/network_equipment.jpg" | relative_url }}){: class="thumb" }

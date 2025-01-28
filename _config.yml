@@ -67,16 +67,16 @@ home_cards:
     description: Cloud Computing is important services and technologies for recent IT infrastructures. We develop Cloud Controller for distributed IaaS Cloud and try to integrate resource management mechanism, distributed filesystem, and network migration using LISP and VXLAN technologies. The testbed is an inter-university IaaS cloud, called "WIDE Cloud".
     links:
       - title: WIDE Cloud
-        url: https://wcc.wide.ad.jp/
+        url: 
         image: wide-cloud-logo.png
   - title: SDN and NFV
     description: Software Defined Network (SDN) is an important and hot keyword in DataCenter Network and Dedicated Network. We are working on effective management in DataCenter and Cloud Networks using OpenFlow from both of theoretical and practical approaches. Also, we establish the project for proof of concepts of Network Functions Virtualization (NFV). We evaluate and develop the elemental technologies architecture of NFV. 
     links:
       - title: NSP Consortium
-        url: http://www.next-nsp.org/
+        url: 
         image: nsp-mini.png
       - title: GINEW
-        url: http://www.ginew.net/
+        url: 
         image: ginew-logo-s.png
   - title: Cyber Security
     description: Cyber Security is important and imperative for the Internet. To against cyber attacks we join the EU-JP international collaboration, <a href="http://www.necoma-project.eu/" target="_blank">NECOMA Project</a>, of multi-layer resilient cyber-defence. In the project, we collect and analyze multi-layer datasets and develop resilient firewall. Also, DNSSEC is an important security mechanism to protect DNS queries from spoofing and attacking. We are developing DNSSEC simulator for accurate estimation of DNSSEC impacts.
