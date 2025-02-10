@@ -59,12 +59,24 @@ main.page {
     color: #ffffff;
 }
 
+/* Breadcrumb */
+
+.breadcrumb .breadcrumb-item,
+.breadcrumb .breadcrumb-item a,
+.breadcrumb .breadcrumb-item::before {
+    color: #ffffff;
+}
+
 @media (max-width: 991px) and (min-width: 768px) {
     main.home {
 	background: linear-gradient(rgba(86, 89, 95, 0) 30%, rgba(86, 89, 95, 0.8) 40%, rgba(86, 89, 95, 0.8) 50%, rgba(255, 255, 255, 0.5) 60%), url("../images/main_bg.png");
 	background-size: auto;
 	background-repeat: no-repeat;
 	background-position: center top;
+    }
+
+    main.page {
+	background-size: auto;
     }
 }
 
