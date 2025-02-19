@@ -7,7 +7,9 @@ permalink: /members/
 ## Faculty
 
 - Yuji Sekiya (Professor)
+
 ![ギジュツノチカラ ADVANCED TECH SHOW 2023 | ソフトバンク 先端技術研究所 | 企業・IR | ソフトバンク](https://www.softbank.jp/corp/set/data/technology/research/ats2023/img/shared/img-speaker-05-02.png){: style="max-width: 200px;" }
+![Yuji Sekiya]({{ "assets/images/sekiya.png" | relative_url }}){: style="max-width: 150px;" }
 
 Yuji Sekiya (Ph.D.) is a Professor at The University of Tokyo, [Graduate School of Information Science and Technology,](https://www.i.u-tokyo.ac.jp/){: target="_blank" } [Security Informatics Education and Research Center](https://si.u-tokyo.ac.jp/){: target="_blank" }, and also [Information Technology Center](http://www.itc.u-tokyo.ac.jp/){: target="_blank" }. He received B.E. from Kyoto University in 1997 and M.E. from Keio University in 1999. He worked at USC/ISI in 1999 as a visiting researcher. Since 2002, he started working at The University of Tokyo, Information Technology Center. He moved to the [Graduate School of Information Science and Technology](https://www.i.u-tokyo.ac.jp/){: target="_blank" }, [Security Informatics Education and Research Center](https://si.u-tokyo.ac.jp/){: target="_blank" } at The University of Tokyo as a Professor in Nov. 2019. He received a Ph.D. from Keio University, Graduate School of Media and Governance, in 2005.
 
