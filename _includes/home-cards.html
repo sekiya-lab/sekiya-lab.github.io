@@ -14,7 +14,7 @@
       <a href="{{ card_link.url }}" target="_blank">
       {%- endif -%}
       {%- if card_link.image -%}
-        <img src="{{ "assets/images/" | relative_url }}{{ card_link.image }}" alt="{{ card_link.title }}" class="img-fluid">
+        <img src="{{ "assets/images/" | relative_url }}{{ card_link.image }}" alt="{{ card_link.title }}" class="thumb-top me-2">
       {%- else -%}
         {{ card_link.title }}
       {%- endif -%}

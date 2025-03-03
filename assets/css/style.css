@@ -21,6 +21,11 @@ img.thumb {
     max-width: 400px;
 }
 
+img.thumb-top {
+    max-width: 200px;
+    max-height: 80px;
+}
+
 iframe {
     max-width: 100%;
 }
