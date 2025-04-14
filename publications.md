@@ -6,6 +6,10 @@ permalink: /publications/
 
 ## Journal
 
+**2024**
+
+- Satoshi Okada, Houda Jmila, Kunio Akashi, Takuho Mitsunaga, Yuji Sekiya, Hideki Takase, Gregory Blanc and Hiroshi Nakamura, "Xai-driven black-box adversarial attacks on network intrusion detectors", International Journal of Information Security, Springer, vol. 24, num. 103, DOI: 10.1007/s10207-025-01016-0
+
 **2023**
 
 - Satoshi Okada, Kunio Akashi, Daisuke Miyamoto, Yuji Sekiya, Hideki Takase, Hiroshi Nakamura, “Memory-saving LDoS Attacker Detection Algorithms in Zigbee Network”, Journal of Information Processing, 2023, Vol. 31 , pp. 537–549, DOI : doi.org/10.2197/ipsjjip.31.537, September 2023.
