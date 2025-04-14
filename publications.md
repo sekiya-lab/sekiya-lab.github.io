@@ -111,7 +111,8 @@ permalink: /publications/
 
 **2024**
 
-- Kunio Akashi, Seiichi Yamamoto, Haruki Sakurai, Koki Ito, Tomohiro Ishihara, Takuji Iimura, Hiroki Watanabe, Keiichi Shima, Katsuhiro Horiba, Yuji Sekiya, “Cloud5GC: Design and Implementation of Scalable and Stateless Mobile Core System on Public Cloud”, The 38th International Conference on Information Networking (ICOIN 2024), January 2024 (Accepted).
+- Satoshi Okada, Houda Jmila, Kunio Akashi, Takuho Mitsunaga, Yuji Sekiya, Hideki Takase, Gregory Blanc and Hiroshi Nakamura, "XAI-driven Adversarial Attacks on Network Intrusion Detectors", Proceedings of the 2024 European Interdisciplinary Cybersecurity Conference, Association for Computing Machinery, pp. 65--73, June 2024, DOI: 10.1145/3655693.3655714
+- Kunio Akashi, Seiichi Yamamoto, Haruki Sakurai, Koki Ito, Tomohiro Ishihara, Takuji Iimura, Hiroki Watanabe, Keiichi Shima, Katsuhiro Horiba, Yuji Sekiya, “Cloud5GC: Design and Implementation of Scalable and Stateless Mobile Core System on Public Cloud”, The 38th International Conference on Information Networking (ICOIN 2024), January 2024, DOI: 10.1109/ICOIN59985.2024.10572149
 
 **2023**
 
