@@ -21,7 +21,7 @@ He had been in charge of the [Executive Advisor to the Government CIO](https://c
 GnuPG Key Fingerprint = B8D3 0D3A 8040 7A47 0F0C E5EE 6BD0 2383 6113 F47E
 ```
 
-- [Kunio Akashi](https://akashi.jpcert.cc/){: target="_blank" } (Project Associate Professor)
+- [Kunio Akashi](https://akashi.jpcert.cc/){: target="_blank" } (Associate Professor)
 - Takuji Iimura (Researcher)
 - Mikako Tokuyama (Secretary)
 
@@ -30,10 +30,10 @@ GnuPG Key Fingerprint = B8D3 0D3A 8040 7A47 0F0C E5EE 6BD0 2383 6113 F47E
 ## Students
 
 - Yi Wei (D3)
-- Tasuku Sasaki (M2)
-- Keigo Fujishima (M2)
-- Haruto Ishii (M1)
-- Junaki Kamishiro (M1)
+- Haruto Ishii (M2)
+- Junaki Kamishiro (M2)
+- Haruto Kinoshita (M1)
+- Touya Honda (M1)
 
 ---
 
@@ -56,3 +56,5 @@ GnuPG Key Fingerprint = B8D3 0D3A 8040 7A47 0F0C E5EE 6BD0 2383 6113 F47E
 - She Xinyi (2021)
 - Mako Miyatake (2022)
 - Ssu-hung YEH (2023)
+- Tasuku Sasaki (2024)
+- Keigo Fujishima (2024)
