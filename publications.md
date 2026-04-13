@@ -8,7 +8,7 @@ permalink: /publications/
 
 **2025**
 
-- Yi Wei, Masaya Nakayama, and Yuji Sekiya, "Enhancing Generalization in Phishing URL Detection via a Fine-Tuned BERT-Based Multimodal Approach", IEEE Access, Vol. 13, pp 131197--131216.
+- Yi Wei, Masaya Nakayama, and Yuji Sekiya, "Enhancing Generalization in Phishing URL Detection via a Fine-Tuned BERT-Based Multimodal Approach", IEEE Access, Vol. 13, pp 131197--131216, doi : 10.1109/ACCESS.2025.3591843.
 - Satoshi Okada, Houda Jmila, Kunio Akashi, Takuho Mitsunaga, Yuji Sekiya, Hideki Takase, Gregory Blanc, and Hiroshi Nakamura, "Xai-driven black-box adversarial attacks on network intrusion detectors", International Journal of Information Security, Springer, Vol. 24, Number.3 p.3, Jun. 2025.
 
 **2024**
