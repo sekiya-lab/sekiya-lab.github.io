@@ -50,7 +50,7 @@ page_navs:
     - title: Domestic Conference
       id: domestic-conference
     - title: Doctoral Thesis of Sekiya Lab. Graduates
-      id: doctor-thesis-of-sekiya-lab-graduates
+      id: doctoral-thesis-of-sekiya-lab-graduates
     - title: Master Thesis of Sekiya Lab. Graduates
       id: master-thesis-of-sekiya-lab-graduates
     - title: Internet-Draft
