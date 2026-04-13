@@ -250,6 +250,7 @@ permalink: /publications/
 **2025**
 
 - 神城 潤光, 関谷 勇司 : 「画像識別器を用いた局所的な画像変換判定の性能評価」, コンピュータセキュリティシンポジウム2025論文集, 情報処理学会, pp. 797--802, 2025年10月.
+- 石井 悠人, 明石 邦夫, and 関谷 勇司 : 「拡散モデルを用いた多クラスIDS データセット生成手法の検討」, 電子情報通信学会技術研究報告, Vol. 124, Num. 419, pp. 450--455, 2025年3月
 
 **2024**
 
@@ -385,6 +386,20 @@ permalink: /publications/
 - 吉藤 英明, 國武 功一, 関谷 勇司, 山本 和彦, 江崎 浩, 村井 純, 「Linux における IPv6 標準対応 : USAGI Project の取り組み」, 電子情報通信学会 IA 研究会,Vol.101, No.101, pp.37-44, 2001 年5 月
 
 ## Master Thesis of Sekiya Lab. Graduates
+
+**2026**
+
+- 石井 悠人 : 「ネットワーク侵入検知システムにおける合成表形式データ品質改善のための後処理フレームワーク」, 東京大学大学院工学系研究科修士論文, 2026年3月
+- 神城 潤光 : 「輪郭構造を維持するGAN ベース画像補完モデルの構成」, 東京大学大学院工学系研究科修士論文, 2026年3月
+
+**2025**
+
+- 佐々木佑 : 「LLM アプリとは独立した敵対的プロンプト検知手法の開発」, 東京大学大学院工学系研究科修士論文, 2025年3月.
+- Keigo Fujishima, "Security Evaluation of Lattice-based Cryptography against Topological Deep Learning-based Approximation, 東京大学大学院工学系研究科修士論文, 2025年3月.
+
+**2024**
+
+- Ssuhung Yeh, "Perception-Based Image Reconstruction Attack by Cache Side-Channel Analysis", 東京大学大学院工学系研究科修士論文, 2024年3月.
 
 **2023**
 
