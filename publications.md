@@ -6,6 +6,11 @@ permalink: /publications/
 
 ## Journal
 
+**2025**
+
+- Yi Wei, Masaya Nakayama, and Yuji Sekiya, "Enhancing Generalization in Phishing URL Detection via a Fine-Tuned BERT-Based Multimodal Approach", IEEE Access, Vol. 13, pp 131197--131216.
+- Satoshi Okada, Houda Jmila, Kunio Akashi, Takuho Mitsunaga, Yuji Sekiya, Hideki Takase, Gregory Blanc, and Hiroshi Nakamura, "Xai-driven black-box adversarial attacks on network intrusion detectors", International Journal of Information Security, Springer, Vol. 24, Number.3 p.3, Jun. 2025.
+
 **2024**
 
 - Satoshi Okada, Houda Jmila, Kunio Akashi, Takuho Mitsunaga, Yuji Sekiya, Hideki Takase, Gregory Blanc and Hiroshi Nakamura, "Xai-driven black-box adversarial attacks on network intrusion detectors", International Journal of Information Security, Springer, vol. 24, num. 103, DOI: 10.1007/s10207-025-01016-0
@@ -105,17 +110,25 @@ permalink: /publications/
 - 関谷勇司 : 「ロボット情報学ハンドブック」, ナノオプトニクスエナジー, pp.138–148, ISBN-13: 978-4764955073, 2010年3月
 - Pakornsiri Akkhara, Yuji Sekiya, and Yasushi Wakahara： FAST DISSEMINATION OF ALARM MESSAGE BASED ON MULTI-CHANNEL CUT-THROUGH REBROADCASTING FOR SAFE DRIVING, Intelligent Automation and Computer Engineering, Lecture Notes in Electrical Engineering, Vol.52, Springer, pp.501, 2009 (ISBN: 978-90-481-3516-5)
 - 江崎 浩, 吉藤 英明, 関谷 勇司, 石原 知洋 : 「詳説図解 IPv6 エキスパートガイド」,秀和システム, ISBN 4798003131, 2002年5月
-- 関谷 勇司 : 「実用段階に入った次世代インターネット・プロトコル 「IPv6」によるネットワーク構築」, コンピュ-タ&ネットワ-クLAN 17(6) pp.110〜113, オ-ム社, 1999年6月
-- 浅見 徹, 江崎 浩, 関谷 勇司, 斎藤 賢爾, 山下 達也, 岩波 剛太, 「P2P のこれまでとこれから — ネットワーク高度利用推進協議会活動の歴史とともに –」, 電子情報通信学会, Vol.95, No.9, pp. 809-814, 2012年9月
-- 加藤 朗, 山本 成一, 関谷 勇司, 「Lambda Networking : 広帯域ネットワーク利用の一形態」, 情報処理学会, Vol.46, No.8, pp.894-898, 2005 年8 月
-- 関谷 勇司, 石原 知洋, 「DNS のセキュリティ対策と運用状態の調査ツール : DNSにおけるセキュリティの現状」, 情報処理学会, Vol.41, No.12, pp. 1373-1379, 2000 年12 月
+- 関谷 勇司 : 「実用段階に入った次世代インターネット・プロトコル 「IPv6」によるネットワーク構築」, コンピュ-タ&ネットワ-クLAN 17(6) pp.110--113, オ-ム社, 1999年6月
+- 浅見 徹, 江崎 浩, 関谷 勇司, 斎藤 賢爾, 山下 達也, 岩波 剛太, 「P2P のこれまでとこれから — ネットワーク高度利用推進協議会活動の歴史とともに –」, 電子情報通信学会, Vol.95, No.9, pp. 809--814, 2012年9月
+- 加藤 朗, 山本 成一, 関谷 勇司, 「Lambda Networking : 広帯域ネットワーク利用の一形態」, 情報処理学会, Vol.46, No.8, pp.894--898, 2005 年8 月
+- 関谷 勇司, 石原 知洋, 「DNS のセキュリティ対策と運用状態の調査ツール : DNSにおけるセキュリティの現状」, 情報処理学会, Vol.41, No.12, pp. 1373--1379, 2000 年12 月
 - 関谷 勇司, 「大学間クラウド環境の実現に向けて」, 私立大学情報教育協会 大学教育と情報, Vol. 19, No. 4, pp. 2–4, 2011年3月
 
 ## International Conference
 
+**2025**
+
+- Haruto Ishii, Kunio Akashi, and Yuji Sekiya, "TabRefine: A Post-Processing Framework for Enhancing Synthetic Tabular Data in Network Intrusion Detection Systems", 2025 IEEE International Conference on Big Data (BigData), pp. 7803-07813, Macau, China, 2025, doi: 10.1109/BigData66926.2025.11402086.
+- Kunio Akasahi, Hiroki Watanabe, Seiichi Yamamoto, Tomohiro Ishihara, Takuji Iimura, and Yuji Sekiya, "P-Cloud5GC: Innovative 5G Core Architecture on Public Cloud with Scalability and Fault Tolerance", 2025 IEEE 11th International Conference on Network Softwarization (NetSoft 2025), pp. 518--522, Jun. 2025.
+- Satoshi Okada, Kunio Akashi, Takuho Mitsunaga, Yuji Sekiya, Hideki Takase, and Hiroshi Nakamura, "Stealthy Physical Adversarial Attacks on Industrial AI Vision Systems for Factory Automation", 2025 International Conference on Communication, Computing, Networking, and Control in Cyber-Physical Systems (CCNCPS), pp. 118--124, Jun. 2025.
+- Daishi Kondo, Yuya Shibuya, Rie S Yamaguchi, Tomohiro Ishihara, Yuji Sekiya, Toshiyuki Nakata, and Tohru Asami, "Who Did Not Implement Email Security Measures After Google's New Email Sender Guidelines?: A Large-Scale Measurement Study", 2025 9th Network Traffic Measurement and Analysis Conference (TMA), pp. 1--10, Jun. 2025.
+- Yi Wei, Yuji Sekiya, Masaya Nakayama, and Synge Todo, "Quantum machine learning for phishing URLs detection: Implementation and evaluation with qiskit", 2025 10th International Conference on Information and Network Technologies (ICINT), pp. 1--8, Mar. 2025.
+
 **2024**
 
-- Yi Wei, Masaya Nakayama and Yuji Sekiya, "An Interpretable Fine-Tuned BERT Approach for Phishing URLs Detection: A Superior Alternative to Feature Engineering," 2024 11th International Conference on Social Networks Analysis, Management and Security (SNAMS), Gran Canaria, Spain, 2024, pp. 138-145, doi: 10.1109/SNAMS64316.2024.10883775.
+- Yi Wei, Masaya Nakayama and Yuji Sekiya, "An Interpretable Fine-Tuned BERT Approach for Phishing URLs Detection: A Superior Alternative to Feature Engineering," 2024 11th International Conference on Social Networks Analysis, Management and Security (SNAMS), Gran Canaria, Spain, 2024, pp. 138--145, doi: 10.1109/SNAMS64316.2024.10883775.
 - Satoshi Okada, Houda Jmila, Kunio Akashi, Takuho Mitsunaga, Yuji Sekiya, Hideki Takase, Gregory Blanc and Hiroshi Nakamura, "XAI-driven Adversarial Attacks on Network Intrusion Detectors", Proceedings of the 2024 European Interdisciplinary Cybersecurity Conference, Association for Computing Machinery, pp. 65--73, June 2024, DOI: 10.1145/3655693.3655714.
 - Kunio Akashi, Seiichi Yamamoto, Haruki Sakurai, Koki Ito, Tomohiro Ishihara, Takuji Iimura, Hiroki Watanabe, Keiichi Shima, Katsuhiro Horiba, Yuji Sekiya, “Cloud5GC: Design and Implementation of Scalable and Stateless Mobile Core System on Public Cloud”, The 38th International Conference on Information Networking (ICOIN 2024), January 2024, DOI: 10.1109/ICOIN59985.2024.10572149.
 
