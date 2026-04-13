@@ -385,21 +385,25 @@ permalink: /publications/
 - 石原 知洋, 関谷 勇司, 南 政樹 : 「DNS キャッシュ通信機構の設計および実装」, 日本ソフトウェア科学会, 第 4 回インターネットテクノロジーワークショップ 論文集, pp.58–65, 2001年9月
 - 吉藤 英明, 國武 功一, 関谷 勇司, 山本 和彦, 江崎 浩, 村井 純, 「Linux における IPv6 標準対応 : USAGI Project の取り組み」, 電子情報通信学会 IA 研究会,Vol.101, No.101, pp.37-44, 2001 年5 月
 
+## Doctoral Thesis of Sekiya Lab. Graduates
+
+- Yi Wei, "Generalizable Multimodal Approach for Evolving Phishing Detection", 東京大学大学院工学系研究科博士論文, 2025年9月.
+
 ## Master Thesis of Sekiya Lab. Graduates
 
 **2026**
 
-- 石井 悠人 : 「ネットワーク侵入検知システムにおける合成表形式データ品質改善のための後処理フレームワーク」, 東京大学大学院工学系研究科修士論文, 2026年3月
-- 神城 潤光 : 「輪郭構造を維持するGAN ベース画像補完モデルの構成」, 東京大学大学院工学系研究科修士論文, 2026年3月
+- 石井 悠人 : 「ネットワーク侵入検知システムにおける合成表形式データ品質改善のための後処理フレームワーク」, 東京大学大学院情報理工学系研究科修士論文, 2026年3月
+- 神城 潤光 : 「輪郭構造を維持するGAN ベース画像補完モデルの構成」, 東京大学大学院情報理工学系研究科修士論文, 2026年3月
 
 **2025**
 
-- 佐々木佑 : 「LLM アプリとは独立した敵対的プロンプト検知手法の開発」, 東京大学大学院工学系研究科修士論文, 2025年3月.
-- Keigo Fujishima, "Security Evaluation of Lattice-based Cryptography against Topological Deep Learning-based Approximation, 東京大学大学院工学系研究科修士論文, 2025年3月.
+- 佐々木佑 : 「LLM アプリとは独立した敵対的プロンプト検知手法の開発」, 東京大学大学院情報理工学系研究科修士論文, 2025年3月.
+- Keigo Fujishima, "Security Evaluation of Lattice-based Cryptography against Topological Deep Learning-based Approximation, 東京大学大学院情報理工学系研究科修士論文, 2025年3月.
 
 **2024**
 
-- Ssuhung Yeh, "Perception-Based Image Reconstruction Attack by Cache Side-Channel Analysis", 東京大学大学院工学系研究科修士論文, 2024年3月.
+- Ssuhung Yeh, "Perception-Based Image Reconstruction Attack by Cache Side-Channel Analysis", 東京大学大学院情報理工学系研究科修士論文, 2024年3月.
 
 **2023**
 
@@ -412,7 +416,7 @@ permalink: /publications/
 
 **2021**
 
-- Wei YI, “Feature Selection Approach for Phising Detection based on Machine Learning”, 東京大学大学院工学系研究科修士論文, 2021年9月.
+- Yi Wei, “Feature Selection Approach for Phising Detection based on Machine Learning”, 東京大学大学院工学系研究科修士論文, 2021年9月.
 - James LU, “Research on Anomaly Intrusion Detection Utilizing Social Network Analysis”, 東京大学大学院工学系研究科修士論文, 2021年3月.
 - 椙村 駿平 :「PSD エントロピーと機械学習による DoS 攻撃パターンを考慮した攻撃検知」, 東京大学大学院工学系研究科修士論文, 2021年3月.
 - 中島 涼 : 「エッジコンピューティングにおけるデバイスの移動を考慮したタスクオフロー ディング最適化手法」, 東京大学大学院工学系研究科修士論文, 2021年3月.
