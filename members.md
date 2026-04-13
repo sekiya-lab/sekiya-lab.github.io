@@ -33,6 +33,7 @@ GnuPG Key Fingerprint = B8D3 0D3A 8040 7A47 0F0C E5EE 6BD0 2383 6113 F47E
 - Haruto Ishii (D1)
 - Haruto Kinoshita (M2)
 - Touya Honda (M2)
+- Kohki Hashimoto (M2)
 - Gai Kozaki (M1)
 - Yuji Chang (Research Student)
 
