@@ -14,6 +14,7 @@ permalink: /publications/
 **2024**
 
 - Satoshi Okada, Houda Jmila, Kunio Akashi, Takuho Mitsunaga, Yuji Sekiya, Hideki Takase, Gregory Blanc and Hiroshi Nakamura, "Xai-driven black-box adversarial attacks on network intrusion detectors", International Journal of Information Security, Springer, vol. 24, num. 103, DOI: 10.1007/s10207-025-01016-0
+- 中村 遼, 奥澤 智子, 海老澤 健太郎, 関谷 勇司, and 李 忠翰, "ECMPの拡張によるハードウェアロードバランサの提案", 情報処理学会論文誌 65 (3), pp. 635--645, 2024年3月, doi : 10.20729/00233242.
 
 **2023**
 
@@ -100,6 +101,7 @@ permalink: /publications/
 
 ## Book and Article
 
+- 関谷勇司 : 「AI専用網」の可能性はある セキュリティDXで人をサポート, テレコミュニケーション, 2025年4月.
 - 関谷勇司 : 「世界のサイバーセキュリティの潮流から、日本の組織に求められる対策のあり方を考える」, 地方公共団体情報システム機構, 地方自治情報誌, Vol.9 No.2, pp. 3-7, 2022年5月
 - 関谷勇司, 大江 将史, 中川 あきら : 「拠点間ネットワークに適用可能なオーバーレイネットワークの設計と運用」, 内閣官房情報通信技術総合戦略室, 政府 CIO ディスカッションペーパー, 2021年8月
 - 東京大学大学院情報理工学系研究科 : 「オンライン・ファースト」, 東京大学出版会, ISBN : 978-4-13-063457-1, 2020年12月
@@ -244,6 +246,15 @@ permalink: /publications/
 - Shu Nakamae, Yuji Sekiya, and Jun Murai, “A Study into a Visualization of an IPv6 Network”, Internet Society, Proceedings of INET99, Jun. 1999.
 
 ## Domestic Conference
+
+**2025**
+
+- 神城 潤光, 関谷 勇司 : 「画像識別器を用いた局所的な画像変換判定の性能評価」, コンピュータセキュリティシンポジウム2025論文集, 情報処理学会, pp. 797--802, 2025年10月.
+
+**2024**
+
+- 澁谷 遊野, 山口 利恵, 石原 知洋, 関谷 勇司, 中田 登志之, 浅見 徹, and 近藤 大嗣 : 「Google によるメール送信者のガイドライン設定が日本国内のメールセキュリティに与える影響の調査」, マルチメディア，分散，協調とモバイルシンポジウム2024論文集, 情報処理学会,  pp.  447--457, 2024年6月.
+
 
 **2023**
 
