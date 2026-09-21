@@ -6,6 +6,10 @@ permalink: /publications/
 
 ## Journal
 
+**2026**
+
+- Daishi Kondo, Yuya Shibuya, Rie S. Yamaguchi, Tomohiro Ishihara, Yuji Sekiya, Toshiyuki Nakata, and Tohru Asami, "Assessing the Adoption of Email Security Measures After Google's New Sender Guidelines", IEEE Transactions on Network and Service Management, 2026, doi: 10.1109/TNSM.2026.3707567.
+
 **2025**
 
 - Yi Wei, Masaya Nakayama, and Yuji Sekiya, "Enhancing Generalization in Phishing URL Detection via a Fine-Tuned BERT-Based Multimodal Approach", IEEE Access, Vol. 13, pp 131197--131216, doi : 10.1109/ACCESS.2025.3591843.
@@ -13,7 +17,6 @@ permalink: /publications/
 
 **2024**
 
-- Satoshi Okada, Houda Jmila, Kunio Akashi, Takuho Mitsunaga, Yuji Sekiya, Hideki Takase, Gregory Blanc and Hiroshi Nakamura, "Xai-driven black-box adversarial attacks on network intrusion detectors", International Journal of Information Security, Springer, vol. 24, num. 103, DOI: 10.1007/s10207-025-01016-0
 - 中村 遼, 奥澤 智子, 海老澤 健太郎, 関谷 勇司, and 李 忠翰, "ECMPの拡張によるハードウェアロードバランサの提案", 情報処理学会論文誌 65 (3), pp. 635--645, 2024年3月, doi : 10.20729/00233242.
 
 **2023**
@@ -31,7 +34,7 @@ permalink: /publications/
 
 **2020**
 
-- Yukihiro Nomura, Issei Sato, Toshihiro Hanawa, Shouhei Hanaoka, Takahiro Nakao, Tomomi Takenaga, Tetsuya Hoshino, Yuji Sekiya, Soichiro Miki, Takeharu Yoshikawa, Naoto Hayashi & Osamu Abe, “Development of training environment for deep learning with medical images on supercomputer system based on asynchronous parallel Bayesian optimization”, J Supercomputing (2020). DOI : 10.1007/s11227-020-03164-7
+- Yukihiro Nomura, Issei Sato, Toshihiro Hanawa, Shouhei Hanaoka, Takahiro Nakao, Tomomi Takenaga, Tetsuya Hoshino, Yuji Sekiya, Soichiro Miki, Takeharu Yoshikawa, Naoto Hayashi, and Osamu Abe, “Development of training environment for deep learning with medical images on supercomputer system based on asynchronous parallel Bayesian optimization”, The Journal of Supercomputing, Vol. 76, No. 9, pp. 7315--7332, 2020. DOI: 10.1007/s11227-020-03164-7.
 
 **2019**
 
@@ -120,10 +123,14 @@ permalink: /publications/
 
 ## International Conference
 
+**2026**
+
+- Shoya Nakamura, Kunio Akashi, and Yuji Sekiya, "Proposal and Evaluation of a Method for Container Micro-segmentation", Innovative Security Solutions for Information Technology and Communications (SecITC 2025), Lecture Notes in Computer Science, Vol. 16443, pp. 249--261, Springer, May 2026, doi: 10.1007/978-3-032-17443-7_15.
+
 **2025**
 
-- Haruto Ishii, Kunio Akashi, and Yuji Sekiya, "TabRefine: A Post-Processing Framework for Enhancing Synthetic Tabular Data in Network Intrusion Detection Systems", 2025 IEEE International Conference on Big Data (BigData), pp. 7803-07813, Macau, China, 2025, doi: 10.1109/BigData66926.2025.11402086.
-- Kunio Akasahi, Hiroki Watanabe, Seiichi Yamamoto, Tomohiro Ishihara, Takuji Iimura, and Yuji Sekiya, "P-Cloud5GC: Innovative 5G Core Architecture on Public Cloud with Scalability and Fault Tolerance", 2025 IEEE 11th International Conference on Network Softwarization (NetSoft 2025), pp. 518--522, Jun. 2025.
+- Haruto Ishii, Kunio Akashi, and Yuji Sekiya, "TabRefine: A Post-Processing Framework for Enhancing Synthetic Tabular Data in Network Intrusion Detection Systems", 2025 IEEE International Conference on Big Data (BigData), pp. 7803--7813, Macau, China, 2025, doi: 10.1109/BigData66926.2025.11402086.
+- Kunio Akashi, Hiroki Watanabe, Seiichi Yamamoto, Tomohiro Ishihara, Takuji Iimura, and Yuji Sekiya, "P-Cloud5GC: Innovative 5G Core Architecture on Public Cloud with Scalability and Fault Tolerance", 2025 IEEE 11th International Conference on Network Softwarization (NetSoft 2025), pp. 518--522, Jun. 2025, doi: 10.1109/NetSoft64993.2025.11080619.
 - Satoshi Okada, Kunio Akashi, Takuho Mitsunaga, Yuji Sekiya, Hideki Takase, and Hiroshi Nakamura, "Stealthy Physical Adversarial Attacks on Industrial AI Vision Systems for Factory Automation", 2025 International Conference on Communication, Computing, Networking, and Control in Cyber-Physical Systems (CCNCPS), pp. 118--124, Jun. 2025.
 - Daishi Kondo, Yuya Shibuya, Rie S Yamaguchi, Tomohiro Ishihara, Yuji Sekiya, Toshiyuki Nakata, and Tohru Asami, "Who Did Not Implement Email Security Measures After Google's New Email Sender Guidelines?: A Large-Scale Measurement Study", 2025 9th Network Traffic Measurement and Analysis Conference (TMA), pp. 1--10, Jun. 2025.
 - Yi Wei, Yuji Sekiya, Masaya Nakayama, and Synge Todo, "Quantum machine learning for phishing URLs detection: Implementation and evaluation with qiskit", 2025 10th International Conference on Information and Network Technologies (ICINT), pp. 1--8, Mar. 2025.
@@ -146,7 +153,7 @@ permalink: /publications/
 
 **2021**
 
-- Xinyi She and Yuji Sekiya, “A Convolutional Autoencoder Based Method with SMOTE for Cyber Intrusion Detection”, The 5th International Workshop on Big Data Analytic for Cyber Crime Investigation and Prevention, December 2021.
+- Xinyi She and Yuji Sekiya, “A Convolutional Autoencoder Based Method with SMOTE for Cyber Intrusion Detection”, 2021 IEEE International Conference on Big Data (Big Data), pp. 2565--2573, December 2021.
 - Satoshi Okada, Daisuke Miyamoto, Yuji Sekiya, Hideki Takase, and Hiroshi Nakamura, “LDoS Attacker Detection Algorithms in Zigbee Network,” 2021 IEEE International Conferences on Internet of Things (iThings) and IEEE Green Computing & Communications (GreenCom) and IEEE Cyber, Physical & Social Computing (CPSCom) and IEEE Smart Data (SmartData) and IEEE Congress on Cybermatics (Cybermatics), 2021, pp. 43-50, DOI: 10.1109/iThings-GreenCom-CPSCom-SmartData-Cybermatics53846.2021.00022, December 2021.
 - Yi WEI, and Yuji Sekiya, “Feature Selection Approach for Phishing Detection Based on Machine Learning”, In: Ragab Hassen, H., Batatia, H. (eds) Proceedings of the International Conference on Applied CyberSecurity (ACS) 2021, Lecture Notes in Networks and Systems, vol 378. Springer, DOI : 10.1007/978-3-030-95918-0\_7, November 2021.
 - Christoff Visser, Seiichi Yamamoto, Tomine Takashi, Yuji Sekiya and Marc Bruyere, “HolistIX: a zero-touch approach for IXPs,” 2021 17th International Conference on Network and Service Management (CNSM), 2021, pp. 1-7, DOI : 10.23919/CNSM52442.2021.9615540.
@@ -168,7 +175,7 @@ permalink: /publications/
 **2018**
 
 - Jing Zhao, Shaoning Pang, Iman Tabatabaei Ardekani, Yuji Sekiya, and Daisuke Miyamoto, “Task and Instance Quadratic Ordering for Active Online Multitask Learning”, 25th International Conference on Neural Information Processing 2018 (ICONIP 2018), Neural Information Processing Proceedings Part III, pp. 435-447, Siem Reap, Cambodia, December 13–16, 2018, DOI:978-3-030-04182-3\_38, December 2018.
-- Gaku Kotani and Yuji Sekiya, “Unsupervised scanning behavior detection based on distribution of network traffic features using robust autoencoders”, 1st IEEE International Workshop on Adapting Data Mining for Security (ADMiS) 2018, Singapore, November 2018.
+- Gaku Kotani and Yuji Sekiya, “Unsupervised scanning behavior detection based on distribution of network traffic features using robust autoencoders”, 2018 IEEE International Conference on Data Mining Workshops (ICDMW), pp. 35--38, Singapore, November 2018.
 - Ryo Nakamura, Yuji Sekiya, and Hajime Tazaki, “Grafting sockets for fast container networking”, ACM Proceedings of the 2018 Symposium on Architectures for Networking and Communications Systems, pp. 15-27, Ithaca, NY, U.S.A., DOI: 10.1145/3230718.3230723, July 2018.
 - Ryo Nakamura, Yuji Sekiya, Daisuke Miyamoto, Kazuya Okada, and Tomohiro Ishihara, “Malicious Host Detection by Imaging SYN Packets and A Neural Network”, 2018 IEEE International Symposium on Networks, Computers, and Communications (ISNCC), Rome, Italy, DOI:10.1109/ISNCC.2018.8530964, June 2018.
 - Keiichi Shima, Hiroshi Abe, Daisuke Miyamoto, Tomohiro Ishihara, Kazuya Okada, Yuji Sekiya, Hirochika Asai, and Yusuke Doi, “Classification of URL bitstreams using Bag of Bytes”, Proceedings of the 21st Innovations in Clouds, Internet and Networks, Paris, France, DOI:10.1109/ICIN.2018.8401597, February 2018.
@@ -188,7 +195,7 @@ permalink: /publications/
 **2015**
 
 - Ryo Nakamura, Yohei Kuga, Yuji Sekiya, and Hiroshi Esaki, “Protocol Independent NIC Offloading for Overlay Networks”, CoNEXT 2015 Student Workshop, In the Proceedings of the 2015 CoNEXT on Student Workshop, December 2015.
-- Ryo Nakamura, Kazuya Okada, Shuichi Saito, Hiroyuki Tanahashi, and Yuji Sekiya, “FlowFall: A Service Chaining Architecture with Commodity Technologies”, The 23rd IEEE International Conference on Network Protocols (ICNP), CoolSDN Workshop 2015, November 2015.
+- Ryo Nakamura, Kazuya Okada, Shuichi Saito, Hiroyuki Tanahashi, and Yuji Sekiya, “FlowFall: A Service Chaining Architecture with Commodity Technologies”, 2015 IEEE 23rd International Conference on Network Protocols (ICNP), pp. 425--431, November 2015.
 - Ryo Nakamura, Yuji Sekiya, and Hiroshi Esaki, “Layer-3 Multipathing in Commodity-based Data Center Networks”, In Proceedings of the 18th IEEE Global Internet Symposium 2015, Hong Kong, April 2015.
 - Hajime Tazaki, Ryo Nakamura, and Yuji Sekiya, “Library operating system with mainline Linux kernel”, In Proceedings of The Technical Conference on Linux Networking (netdev 0.1), Ottawa, Canada, February 2015.
 
