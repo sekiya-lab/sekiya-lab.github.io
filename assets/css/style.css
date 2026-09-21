@@ -91,7 +91,10 @@ iframe {
 
 .research-project-card--security-dx {
     background: linear-gradient(135deg, #753514, #dc7826);
-    grid-column: 1 / -1;
+}
+
+.research-project-card--network {
+    background: linear-gradient(135deg, #263d5a, #397daf);
 }
 
 .research-project-label {
@@ -219,10 +222,6 @@ main.page {
 @media (max-width: 575px) {
     .research-project-grid {
         grid-template-columns: 1fr;
-    }
-
-    .research-project-card--security-dx {
-        grid-column: auto;
     }
 
     .research-project-card {
