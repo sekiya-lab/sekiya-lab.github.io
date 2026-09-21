@@ -22,8 +22,8 @@ GnuPG Key Fingerprint = B8D3 0D3A 8040 7A47 0F0C E5EE 6BD0 2383 6113 F47E
 ```
 
 - [Kunio Akashi](https://akashi.jpcert.cc/){: target="_blank" } (Associate Professor)
+- Yi Wei (Associate Professor)
 - Takuji Iimura (Researcher)
-- Yi Wei (Researcher)
 - Mikako Tokuyama (Secretary)
 
 ---
