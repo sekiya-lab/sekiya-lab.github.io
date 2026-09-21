@@ -24,6 +24,7 @@ The goal of this project is to establish a dependable data foundation for AI-bas
 - **Privacy-conscious:** useful training data can be developed while reducing unnecessary dependence on raw operational data.
 
 
+
 ### Why Cybersecurity Needs Synthetic Data
 
 Collecting comprehensive attack data from real networks is inherently difficult. Successful attacks are uncommon, zero-day attacks have few or no labeled examples, and sensitive traffic cannot always be shared among organizations. Even when public intrusion-detection datasets are available, their class distributions, protocols, devices, and attack patterns may differ from those of a deployment environment.
@@ -72,9 +73,14 @@ This work was presented as **[拡散モデルを用いた多クラスIDSデー�
 
 Based on the observation that generative models can produce imperfect or ambiguous samples, we developed **TabRefine**, a post-processing framework for synthetic tabular data. TabRefine separates data generation from quality improvement and refines generated samples for their intended use in network intrusion detection.
 
+
+![TabRefine1]({{ "assets/images/data-tabrefine-overview.png" | relative_url }})
+
 The framework evaluates and improves synthetic data from the perspective of downstream IDS performance. This makes it possible to enhance generated datasets without redesigning each underlying generator and provides a reusable layer between data synthesis and classifier training.
 
 The results were published as **[TabRefine: A Post-Processing Framework for Enhancing Synthetic Tabular Data in Network Intrusion Detection Systems](https://doi.org/10.1109/BigData66926.2025.11402086){: target="_blank" }** at the 2025 IEEE International Conference on Big Data. The research was further consolidated in a 2026 master's thesis on post-processing for synthetic tabular data quality improvement in network intrusion detection systems.
+
+![TabRefine2]({{ "assets/images/data-tabrefine-results.png" | relative_url }})
 
 #### 2026: STSMOTE for Few-Shot Zero-Day Attack Detection
 
