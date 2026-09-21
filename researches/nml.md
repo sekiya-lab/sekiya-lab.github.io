@@ -82,7 +82,3 @@ The original NML project combined large-scale network and security datasets with
 
 Today, NML focuses on the entire relationship between AI and cybersecurity: using AI to detect attacks, improving the data used to train security models, examining attacks against AI itself, and designing infrastructure that can contain threats when detection is imperfect. The project continues to pursue cybersecurity technologies that are accurate, explainable, robust, and deployable in real networks.
 
-
-### Implementation and Research Resources
-
-One of the early outcomes of NML was **Hayabusa**, a simple and fast full-text search engine for massive system-log datasets. It provides foundational infrastructure for large-scale security analysis and is available from [the Hayabusa repository](https://github.com/hirolovesbeer/hayabusa){: target="_blank" }.

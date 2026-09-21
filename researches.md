@@ -26,7 +26,7 @@ SEKIYA laboratory is now working on the following topics.
 
 ---
 
-## Network Cyber Security
+## NECOMA Project (Continuing as the NML Project)
 
 Network Security is an essential keyword in the current Internet and mandatory for the Internet. We can observe DDoS attacks, spoofing attacks, and brute-force attacks every day. In these surrounding situations, NECOMA Project was started. It is a joint research project of EU and JP. We, SEKIYA lab, join the project from the Japanese side. The project was funded by the [Ministry of Internal Affairs and Communications](https://www.soumu.go.jp/english/){: target="_blank" }. The NECOMA Project was finished in 2017 and [NML Project](https://nml.ai/){: target="_blank" } was started, taking over NECOMA Project. NML Project was funded by [JST CREST](https://www.jst.go.jp/kisoken/crest/project/1111094/1111094_2017.html){: target="_blank" }.
 
