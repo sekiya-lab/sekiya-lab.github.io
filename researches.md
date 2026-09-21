@@ -4,7 +4,7 @@ title: Researches
 permalink: /researches/
 ---
 
-# Ongoing Projects
+<h1 class="research-section-title research-section-title--ongoing">Ongoing Projects</h1>
 
 SEKIYA Laboratory explores new architectures and security technologies for dependable digital infrastructure. Select a project below to learn about its goals, methods, and recent research outcomes.
 
@@ -44,7 +44,7 @@ SEKIYA Laboratory explores new architectures and security technologies for depen
     <span class="research-project-link">Explore the project <span aria-hidden="true">&rarr;</span></span>
   </a>
 
-  <a class="research-project-card research-project-card--operation" href="{{ '/researches/network/' | relative_url }}">
+  <a class="research-project-card research-project-card--network" href="{{ '/researches/network/' | relative_url }}">
     <span class="research-project-label">Network Architecture</span>
     <h3>Network Architecture, Operation, and Management</h3>
     <p>The network is an infrastructure for communications. It should be redundant and flexible for users. It also should be manageable and feasible for network administrators and operators. We are working on the automation of network management, monitoring, and troubleshooting. </p>
@@ -53,7 +53,7 @@ SEKIYA Laboratory explores new architectures and security technologies for depen
 </div>
 
 ---
-# Past Projects
+<h1 class="research-section-title research-section-title--past">Past Projects</h1>
 
 ## NECOMA Project (Continuing as NML Project)
 
@@ -101,7 +101,7 @@ We have papers about resource management, distributed filesystem, and network vi
 
 ---
 
-## Software Defined Networking (SDN)
+## Software Defined Networking (Continuing as Network Architecture Project)
 
 We are working on SDN for management of data center networks, cloud networks and carrier networks. One of the most effective usages of SDN is a path control of carrier networks and enterprise networks. The project called "GINEW" is an Open Source SDN implementation developed with [KEIO University](https://www.sfc.keio.ac.jp/){: target="_blank" } and [NICT](https://testbed.nict.go.jp/){: target="_blank" }. GINEW stands for “General Integrated Network Engineering Workbox”. The SDN framework can control VPLS path on several routers and provide GUI for users. Administrators and users can switch VPLS path easily and avoid conflictions of VPLS configs.
 
@@ -124,15 +124,3 @@ Before introducing and deploying DNSSEC into existing DNS servers, operators and
 The project has its [project page](https://dnssec.sekiya-lab.info/){: target="_blank" } and a demo movie uploaded on youtube.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GUUurmUNdds?si=Jp-73vUM-35Y0tD5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
----
-
-### Network Architecture, Operation, and Management
-
-The network is an infrastructure for communications. It should be redundant and flexible for users. It also should be manageable and feasible for network administrators and operators. We are working on the automation of network management, monitoring, and troubleshooting. We positively join the events for testing interoperability of new network technologies such as [Interop Tokyo](https://www.interop.jp/){: target="_blank" }, and make feedback to network vendors and standards body such as [IETF](https://www.ietf.org/){: target="_blank" }. We intend both of theoretical and practical research.
-
-We also join in the operation and research of Internet Exchanges, called DIX-IE / NSPIXP-3. In these IXes, we try to collect real and practical statistical data and try to apply the data for research of DDoS mitigation.
-
-![ShowNet Topology]({{ "assets/images/shownet_topology.jpg" | relative_url }}){: class="thumb" }
-![Network Equipment]({{ "assets/images/network_equipment.jpg" | relative_url }}){: class="thumb" }
