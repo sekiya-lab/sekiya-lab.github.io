@@ -6,17 +6,84 @@ permalink: /researches/
 
 ## Ongoing Projects
 
-SEKIYA laboratory is now working on the following topics.
+SEKIYA Laboratory explores new architectures and security technologies for dependable digital infrastructure. Select a project below to learn about its goals, methods, and recent research outcomes.
 
-- [NML Project](/researches/nml/)
-- [Next Architecture of Mobile Core Network](/researches/mobile/)
-- [Data Synthesis for Cybersecurity](/researches/data/)
-- [Zero Trust Security for Container Environment](/researches/cozmics/)
-- [Security DX](/researches/securitydx/)
+<div class="research-project-grid">
+  <a class="research-project-card research-project-card--ai" href="{{ '/researches/nml/' | relative_url }}">
+    <span class="research-project-label">AI × Cybersecurity</span>
+    <h3>NML Project</h3>
+    <p>Machine learning and AI for detecting, understanding, and mitigating evolving cyber threats, including phishing, network attacks, adversarial AI, and zero-day attacks.</p>
+    <span class="research-project-link">Explore the project <span aria-hidden="true">&rarr;</span></span>
+  </a>
+
+  <a class="research-project-card research-project-card--mobile" href="{{ '/researches/mobile/' | relative_url }}">
+    <span class="research-project-label">5G / 6G × Cloud</span>
+    <h3>Next Architecture of Mobile Core Network</h3>
+    <p>Procedure-based, stateless, and per-UE mobile-core architectures that use cloud-native execution to improve scalability, resilience, and fault isolation.</p>
+    <span class="research-project-link">Explore the project <span aria-hidden="true">&rarr;</span></span>
+  </a>
+
+  <a class="research-project-card research-project-card--data" href="{{ '/researches/data/' | relative_url }}">
+    <span class="research-project-label">Synthetic Data × Security</span>
+    <h3>Reliable Data Synthesis for Cybersecurity</h3>
+    <p>Generation, refinement, and evaluation of synthetic security data for imbalanced datasets, rare attacks, and few-shot zero-day intrusion detection.</p>
+    <span class="research-project-link">Explore the project <span aria-hidden="true">&rarr;</span></span>
+  </a>
+
+  <a class="research-project-card research-project-card--zero-trust" href="{{ '/researches/cozmics/' | relative_url }}">
+    <span class="research-project-label">Zero Trust × Cloud Native</span>
+    <h3>CoZMicS</h3>
+    <p>Container-level micro-segmentation that applies deny-by-default and least-privilege communication policies inside Kubernetes Pods.</p>
+    <span class="research-project-link">Explore the project <span aria-hidden="true">&rarr;</span></span>
+  </a>
+
+  <a class="research-project-card research-project-card--security-dx" href="{{ '/researches/securitydx/' | relative_url }}">
+    <span class="research-project-label">AI × Human-Centered Security</span>
+    <h3>Security DX</h3>
+    <p>An interdisciplinary project combining cybersecurity, AI, data analysis, and social psychology to identify manipulative digital communication and support safer decisions.</p>
+    <span class="research-project-link">Explore the project <span aria-hidden="true">&rarr;</span></span>
+  </a>
+</div>
+
+### Current Funded and Collaborative Programs
+
+<div class="research-program-list">
+  <div class="research-program-item">
+    <h4>NEDO: Ultra-Distributed Computing Technologies</h4>
+    <p>Research and development of a computing infrastructure for post-5G information and communication systems. <a href="https://www.nedo.go.jp/activities/ZZJP_100172.html" target="_blank" rel="noopener noreferrer">View the NEDO program <span aria-hidden="true">&rarr;</span></a></p>
+  </div>
+  <div class="research-program-item">
+    <h4>JSPS KAKENHI: DoS-Resilient IoT Architecture</h4>
+    <p>Research on resilient IoT architectures using the spatial and temporal characteristics of network traffic to detect and withstand denial-of-service attacks.</p>
+  </div>
+  <div class="research-program-item">
+    <h4>SoftBank Collaborative Research: Next-Generation Mobile Core</h4>
+    <p>Research and development toward a stateless, secure, and cloud-native mobile-core architecture with stronger scalability and fault isolation.</p>
+  </div>
+  <div class="research-program-item">
+    <h4>Ministry of Internal Affairs and Communications: ISP Network Security</h4>
+    <p>Investigation of practical approaches, operational requirements, and challenges for deploying network-security technologies at Internet service providers.</p>
+  </div>
+  <div class="research-program-item">
+    <h4>AITAC Collaborative Research: IT Infrastructure Education</h4>
+    <p>Development of curricula and hands-on environments for educating the next generation of IT infrastructure engineers with security-by-design skills.</p>
+  </div>
+  <div class="research-program-item">
+    <h4>UTokyo SI Center: Cybersecurity Education Program</h4>
+    <p>A university-wide interdisciplinary program that develops cybersecurity knowledge, practical response skills, and security-native thinking.</p>
+  </div>
+</div>
 
 ---
 
-## NECOMA Project (Continuing as the NML Project)
+## Next Architecture of Mobile Core Network
+
+(TBD)
+
+
+---
+
+## Network Cyber Security
 
 Network Security is an essential keyword in the current Internet and mandatory for the Internet. We can observe DDoS attacks, spoofing attacks, and brute-force attacks every day. In these surrounding situations, NECOMA Project was started. It is a joint research project of EU and JP. We, SEKIYA lab, join the project from the Japanese side. The project was funded by the [Ministry of Internal Affairs and Communications](https://www.soumu.go.jp/english/){: target="_blank" }. The NECOMA Project was finished in 2017 and [NML Project](https://nml.ai/){: target="_blank" } was started, taking over NECOMA Project. NML Project was funded by [JST CREST](https://www.jst.go.jp/kisoken/crest/project/1111094/1111094_2017.html){: target="_blank" }.
 
@@ -50,7 +117,7 @@ Over 30 companies are joined the consortium and work for evaluating software-def
 
 ---
 
-## Distributed Cloud Computing (Finished)
+## Distributed Cloud Computing
 
 We are working on the fundamental and infrastructure technologies for Cloud Computing. Especially resource management, distributed filesystem, monitoring method, and network virtualization. Integrating these research, we construct and operate the real IaaS cloud, called "WIDE Cloud". The testbed is IaaS cloud and distributed IaaS cloud connected universities and research organizations. The cloud is a testbed for new technologies and ideas with the actual user. Over hundred users are joined in the cloud and operate over 400 VMs. The project was originally supported by [Ministry of Economy, Trade and Industry](https://www.meti.go.jp/){: target="_blank" }. The project is collaborated with [NICT](https://www.nict.go.jp/){: target="_blank" }/[JGN-X](https://testbed.nict.go.jp/){: target="_blank" }.
 
@@ -59,6 +126,10 @@ We have papers about resource management, distributed filesystem, and network vi
 [![closer-poster]({{ "assets/images/closer-poster.png" | relative_url }}){: class="thumb" }]({{ "assets/images/closer-poster.png" | relative_url }})
 [![yanjue-poster]({{ "assets/images/yanjue-poster.png" | relative_url }}){: class="thumb" }]({{ "assets/images/yanjue-poster.png" | relative_url }})
 
+[![WIDE Cloud overview]({{ "assets/images/widecolud_overview.jpg" | relative_url }}){: class="thumb" }]({{ "assets/images/widecolud_overview.jpg" | relative_url }})
+[![WIDE Cloud tech]({{ "assets/images/widecolud_tech.jpg" | relative_url }}){: class="thumb" }]({{ "assets/images/widecolud_tech.jpg" | relative_url }})
+[![WIDE Cloud challenges]({{ "assets/images/widecolud_challenges.jpg" | relative_url }}){: class="thumb" }]({{ "assets/images/widecolud_challenges.jpg" | relative_url }})
+[![WIDE Cloud wcc]({{ "assets/images/widecolud_wcc.jpg" | relative_url }}){: class="thumb" }]({{ "assets/images/widecolud_wcc.jpg" | relative_url }})
 
 
 ---
