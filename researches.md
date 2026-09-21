@@ -4,7 +4,7 @@ title: Researches
 permalink: /researches/
 ---
 
-## Ongoing Projects
+# Ongoing Projects
 
 SEKIYA Laboratory explores new architectures and security technologies for dependable digital infrastructure. Select a project below to learn about its goals, methods, and recent research outcomes.
 
@@ -45,45 +45,10 @@ SEKIYA Laboratory explores new architectures and security technologies for depen
   </a>
 </div>
 
-### Current Funded and Collaborative Programs
-
-<div class="research-program-list">
-  <div class="research-program-item">
-    <h4>NEDO: Ultra-Distributed Computing Technologies</h4>
-    <p>Research and development of a computing infrastructure for post-5G information and communication systems. <a href="https://www.nedo.go.jp/activities/ZZJP_100172.html" target="_blank" rel="noopener noreferrer">View the NEDO program <span aria-hidden="true">&rarr;</span></a></p>
-  </div>
-  <div class="research-program-item">
-    <h4>JSPS KAKENHI: DoS-Resilient IoT Architecture</h4>
-    <p>Research on resilient IoT architectures using the spatial and temporal characteristics of network traffic to detect and withstand denial-of-service attacks.</p>
-  </div>
-  <div class="research-program-item">
-    <h4>SoftBank Collaborative Research: Next-Generation Mobile Core</h4>
-    <p>Research and development toward a stateless, secure, and cloud-native mobile-core architecture with stronger scalability and fault isolation.</p>
-  </div>
-  <div class="research-program-item">
-    <h4>Ministry of Internal Affairs and Communications: ISP Network Security</h4>
-    <p>Investigation of practical approaches, operational requirements, and challenges for deploying network-security technologies at Internet service providers.</p>
-  </div>
-  <div class="research-program-item">
-    <h4>AITAC Collaborative Research: IT Infrastructure Education</h4>
-    <p>Development of curricula and hands-on environments for educating the next generation of IT infrastructure engineers with security-by-design skills.</p>
-  </div>
-  <div class="research-program-item">
-    <h4>UTokyo SI Center: Cybersecurity Education Program</h4>
-    <p>A university-wide interdisciplinary program that develops cybersecurity knowledge, practical response skills, and security-native thinking.</p>
-  </div>
-</div>
-
 ---
+# Past Projects
 
-## Next Architecture of Mobile Core Network
-
-(TBD)
-
-
----
-
-## Network Cyber Security
+## NECOMA Project (Continuing as NML Project)
 
 Network Security is an essential keyword in the current Internet and mandatory for the Internet. We can observe DDoS attacks, spoofing attacks, and brute-force attacks every day. In these surrounding situations, NECOMA Project was started. It is a joint research project of EU and JP. We, SEKIYA lab, join the project from the Japanese side. The project was funded by the [Ministry of Internal Affairs and Communications](https://www.soumu.go.jp/english/){: target="_blank" }. The NECOMA Project was finished in 2017 and [NML Project](https://nml.ai/){: target="_blank" } was started, taking over NECOMA Project. NML Project was funded by [JST CREST](https://www.jst.go.jp/kisoken/crest/project/1111094/1111094_2017.html){: target="_blank" }.
 
@@ -126,11 +91,6 @@ We have papers about resource management, distributed filesystem, and network vi
 [![closer-poster]({{ "assets/images/closer-poster.png" | relative_url }}){: class="thumb" }]({{ "assets/images/closer-poster.png" | relative_url }})
 [![yanjue-poster]({{ "assets/images/yanjue-poster.png" | relative_url }}){: class="thumb" }]({{ "assets/images/yanjue-poster.png" | relative_url }})
 
-[![WIDE Cloud overview]({{ "assets/images/widecolud_overview.jpg" | relative_url }}){: class="thumb" }]({{ "assets/images/widecolud_overview.jpg" | relative_url }})
-[![WIDE Cloud tech]({{ "assets/images/widecolud_tech.jpg" | relative_url }}){: class="thumb" }]({{ "assets/images/widecolud_tech.jpg" | relative_url }})
-[![WIDE Cloud challenges]({{ "assets/images/widecolud_challenges.jpg" | relative_url }}){: class="thumb" }]({{ "assets/images/widecolud_challenges.jpg" | relative_url }})
-[![WIDE Cloud wcc]({{ "assets/images/widecolud_wcc.jpg" | relative_url }}){: class="thumb" }]({{ "assets/images/widecolud_wcc.jpg" | relative_url }})
-
 
 ---
 
@@ -148,7 +108,7 @@ Also we are working on applying OpenFlow for GeoCasting. The proposed usage is a
 
 ---
 
-## DNSSEC Simulator
+## DNSSEC Simulator (Finished)
 
 In order to protect DNS answers from spoofing and attacking DNSSEC is useful and important. However, DNSSEC is not easy to introduce into existing DNS environments. Operators should pay more costs for signing zones and managing keys. Moreover, the amount of traffic will grow when DNSSEC is introduced because the size of DNSSEC messages is bigger than no DNSSEC messages.
 
