@@ -16,13 +16,7 @@ SEKIYA laboratory is now working on the following topics.
 - 東京大学 SI センター「サイバーセキュリティ教育プログラム」
 
 - [NML Project](/researches/nml/)
-
----
-
-## Next Architecture of Mobile Core Network
-
-(TBD)
-
+- [Next Architecture of Mobile Core Network](/researches/mobile/)
 
 ---
 
