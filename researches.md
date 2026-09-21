@@ -12,6 +12,7 @@ SEKIYA laboratory is now working on the following topics.
 - [Next Architecture of Mobile Core Network](/researches/mobile/)
 - [Data Synthesis for Cybersecurity](/researches/data/)
 - [Zero Trust Security for Container Environment](/researches/cozmics/)
+- [Security DX](/researches/securitydx/)
 
 ---
 
