@@ -63,7 +63,7 @@ The first stage proposed **Proc5GC**, a stateless 5G core architecture based on 
 
 The design was presented in **[A Design of Stateless 5G Core Network with Procedural Processing](https://doi.org/10.1109/BlackSeaCom58138.2023.10299772){: target="_blank" }** at IEEE BlackSeaCom 2023. Related implementations examined the external data structures required for UE context, a monolithic per-UE SMNF, and the realization of procedure-based processing using existing NF-oriented 5GC software.
 
-![mobile-proc5gc-architecture]({{ "/researches/mobile/mobile-proc5gc-architecture.png" | relative_url }})
+![mobile-proc5gc-architecture]({{ "assets/images/mobile-proc5gc-architecture.png" | relative_url }})
 
 #### 2024: Cloud5GC - Serverless Control Plane on a Public Cloud
 
@@ -71,7 +71,7 @@ The second stage implemented the proposed architecture as **Cloud5GC** on a publ
 
 The results were published as **[Cloud5GC: Design and Implementation of Scalable and Stateless Mobile Core System on Public Cloud](https://doi.org/10.1109/ICOIN59985.2024.10572149){: target="_blank" }** at IEEE ICOIN 2024. The evaluation demonstrated the feasibility, flexibility, resilience, and fault-tolerance of the architecture on a public-cloud platform.
 
-![mobile-cloud5gc-structure]({{ "/researches/mobile/mobile-cloud5gc-structure.png" | relative_url }})
+![mobile-cloud5gc-structure]({{ "assets/images/mobile-cloud5gc-structure.png" | relative_url }})
 
 #### 2025: P-Cloud5GC - Extending the Architecture to the User Plane
 
@@ -79,7 +79,7 @@ The third stage extended Cloud5GC beyond control-plane signaling. **P-Cloud5GC**
 
 The work was presented in **[P-Cloud5GC: Innovative 5G Core Architecture on Public Cloud with Scalability and Fault Tolerance](https://doi.org/10.1109/NetSoft64993.2025.11080619){: target="_blank" }** at IEEE NetSoft 2025. The results show how the architecture can combine public-cloud elasticity with fault isolation across both control- and user-plane processing.
 
-![mobile-pcloud5gc-overview]({{ "/researches/mobile/mobile-pcloud5gc-overview.png" | relative_url }})
+![mobile-pcloud5gc-overview]({{ "assets/images/mobile-pcloud5gc-overview.png" | relative_url }})
 
 ### Research Contributions
 

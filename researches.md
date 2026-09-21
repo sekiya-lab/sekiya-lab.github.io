@@ -8,15 +8,10 @@ permalink: /researches/
 
 SEKIYA laboratory is now working on the following topics.
 
-- NEDO 受託研究「[ポスト5G情報通信システム基盤強化研究開発事業／ポスト5G情報通信システムの開発（委託）／（f1）超分散コンピューティング技術の開発](https://www.nedo.go.jp/activities/ZZJP_100172.html){: target="_blank" }」
-- 科研費「トラフィックの時空間特徴量に着目した DoS 耐性 IoT アーキテクチャの研究」
-- ソフトバンク共同研究「ステートレスかつセキュアな次世代モバイルコア実現に向けた研究開発」
-- 総務省受託研究「ISPにおけるネットワークセキュリティ技術の導入に関する調査」
-- AITAC 共同研究「次世代 IT インフラエンジニア育成に向けたカリキュラムと演習環境の構築」
-- 東京大学 SI センター「サイバーセキュリティ教育プログラム」
-
 - [NML Project](/researches/nml/)
 - [Next Architecture of Mobile Core Network](/researches/mobile/)
+- [Data Synthesis for Cybersecurity](/researches/data/)
+- [Zero Trust Security for Container Environment](/researches/cozmics/)
 
 ---
 
