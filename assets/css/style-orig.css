@@ -1,0 +1,118 @@
+@charset "UTF-8";
+
+/* Site */
+
+a, h1, h2, h3, h4, h5 {
+    color: #172a75;
+}
+
+.logo {
+    width: 315px;
+    max-width: 315px;
+}
+
+/* Image */
+
+img {
+    max-width: 100%;
+}
+
+img.thumb {
+    max-width: 400px;
+}
+
+img.thumb-top {
+    max-width: 200px;
+    max-height: 80px;
+}
+
+iframe {
+    max-width: 100%;
+}
+
+/* Background */
+
+main.home {
+    background: url("../images/main_bg.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+main.page {
+    background-image: url("../images/bg.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.transparent {
+    background: rgba(248, 248, 248, 0.8);
+}
+
+/* Top Page */
+
+.page-head {
+    color: #ffffff;
+}
+
+.page-head a {
+    color: #ffffff;
+}
+
+/* Page */
+
+.page-title {
+    color: #ffffff;
+}
+
+/* Breadcrumb */
+
+.breadcrumb .breadcrumb-item,
+.breadcrumb .breadcrumb-item a,
+.breadcrumb .breadcrumb-item::before {
+    color: #ffffff;
+}
+
+@media (max-width: 991px) and (min-width: 768px) {
+    main.home {
+	background: linear-gradient(rgba(86, 89, 95, 0) 20%, rgba(86, 89, 95, 0.8) 40%, rgba(86, 89, 95, 0.8) 50%, rgba(255, 255, 255, 0.5) 60%), url("../images/main_bg.png");
+	background-size: auto;
+	background-repeat: no-repeat;
+	background-position: center top;
+    }
+
+    main.page {
+	background-size: auto;
+    }
+}
+
+@media (max-width: 767px) and (min-width: 576px) {
+    main.home {
+	background: linear-gradient(rgba(86, 89, 95, 0) 20%, rgba(86, 89, 95, 0.8) 35%, rgba(86, 89, 95, 0.8) 50%, rgba(255, 255, 255, 0.5) 60%), url("../images/main_bg.png");
+	background-size: auto;
+	background-repeat: no-repeat;
+	background-position: center top;
+    }
+}
+
+@media (max-width: 575px) {
+    .logo {
+	width: 250px;
+	max-width: 250px;
+    }
+
+    img.thumb {
+	max-width: 100%;
+    }
+
+    main.home {
+	background: linear-gradient(rgba(86, 89, 95, 0) 5%, rgba(86, 89, 95, 0.8) 30%, rgba(86, 89, 95, 0.8) 40%, rgba(255, 255, 255, 0.5) 55%), url("../images/main_bg.png");
+	background-size: auto;
+	background-repeat: no-repeat;
+	background-position: center top;
+    }
+
+    main.page {
+	background-size: auto;
+	background-position: center top;
+    }
+}

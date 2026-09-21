@@ -43,6 +43,13 @@ SEKIYA Laboratory explores new architectures and security technologies for depen
     <p>An interdisciplinary project combining cybersecurity, AI, data analysis, and social psychology to identify manipulative digital communication and support safer decisions.</p>
     <span class="research-project-link">Explore the project <span aria-hidden="true">&rarr;</span></span>
   </a>
+
+  <a class="research-project-card research-project-card--operation" href="{{ '/researches/network/' | relative_url }}">
+    <span class="research-project-label">Network Architecture</span>
+    <h3>Network Architecture, Operation, and Management</h3>
+    <p>The network is an infrastructure for communications. It should be redundant and flexible for users. It also should be manageable and feasible for network administrators and operators. We are working on the automation of network management, monitoring, and troubleshooting. </p>
+    <span class="research-project-link">Explore the project <span aria-hidden="true">&rarr;</span></span>
+  </a>
 </div>
 
 ---
