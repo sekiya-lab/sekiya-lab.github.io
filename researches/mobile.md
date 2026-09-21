@@ -37,7 +37,7 @@ Cloud platforms offer rapid scaling, serverless execution, distributed storage, 
 
 Mobile-core behavior is decomposed according to 3GPP procedures rather than only according to conventional NF boundaries. The functions required for a procedure are invoked as an event-driven processing flow. This reduces unnecessary dependencies among long-running services and makes the execution path of each procedure explicit.
 
-![mobile-proc5gc-architecture]({{ "mobile-proc5gc-architecture.png" | relative_url }})
+![mobile-proc5gc-architecture]({{ "/researches/mobile/mobile-proc5gc-architecture.png" | relative_url }})
 
 #### Stateless Functions and External Context
 
