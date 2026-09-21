@@ -54,7 +54,7 @@ Over 30 companies are joined the consortium and work for evaluating software-def
 
 ---
 
-## Distributed Cloud Computing
+## Distributed Cloud Computing (Finished)
 
 We are working on the fundamental and infrastructure technologies for Cloud Computing. Especially resource management, distributed filesystem, monitoring method, and network virtualization. Integrating these research, we construct and operate the real IaaS cloud, called "WIDE Cloud". The testbed is IaaS cloud and distributed IaaS cloud connected universities and research organizations. The cloud is a testbed for new technologies and ideas with the actual user. Over hundred users are joined in the cloud and operate over 400 VMs. The project was originally supported by [Ministry of Economy, Trade and Industry](https://www.meti.go.jp/){: target="_blank" }. The project is collaborated with [NICT](https://www.nict.go.jp/){: target="_blank" }/[JGN-X](https://testbed.nict.go.jp/){: target="_blank" }.
 
@@ -63,10 +63,6 @@ We have papers about resource management, distributed filesystem, and network vi
 [![closer-poster]({{ "assets/images/closer-poster.png" | relative_url }}){: class="thumb" }]({{ "assets/images/closer-poster.png" | relative_url }})
 [![yanjue-poster]({{ "assets/images/yanjue-poster.png" | relative_url }}){: class="thumb" }]({{ "assets/images/yanjue-poster.png" | relative_url }})
 
-[![WIDE Cloud overview]({{ "assets/images/widecolud_overview.jpg" | relative_url }}){: class="thumb" }]({{ "assets/images/widecolud_overview.jpg" | relative_url }})
-[![WIDE Cloud tech]({{ "assets/images/widecolud_tech.jpg" | relative_url }}){: class="thumb" }]({{ "assets/images/widecolud_tech.jpg" | relative_url }})
-[![WIDE Cloud challenges]({{ "assets/images/widecolud_challenges.jpg" | relative_url }}){: class="thumb" }]({{ "assets/images/widecolud_challenges.jpg" | relative_url }})
-[![WIDE Cloud wcc]({{ "assets/images/widecolud_wcc.jpg" | relative_url }}){: class="thumb" }]({{ "assets/images/widecolud_wcc.jpg" | relative_url }})
 
 
 ---
