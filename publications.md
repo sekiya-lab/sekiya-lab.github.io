@@ -467,6 +467,29 @@ permalink: /publications/
 
 ## Presentation
 
+**2026**
+
+- 関谷 勇司 : 「[AI が再定義するサイバーセキュリティ ～脆弱性発見の自動化とマルチエージェントがもたらす構造変化～](https://www.bc-seminar.jp/fdi?p=MjAxMDIwMDAwLDAwMDAxNTI2Mg%3D%3D){: target="_blank" }」, 新社会システム総合研究所 ICT戦略特別セミナー, 紀尾井フォーラム／オンライン, 2026年8月7日
+
+**2025**
+
+- 関谷 勇司 : 「[AI時代のネットワーク運用とセキュリティ対策 ～スピードと精度を両立する自動化の可能性～](https://dxpo.jp/real/box/tokyo25-2/conf/_conf-detail-system.html?tka25conf20250918=){: target="_blank" }」, IT・情シスDXPO 東京’25【秋】, 東京ビッグサイト, 2025年9月18日
+- 関谷 勇司 : 「[AIが変えるサイバーセキュリティの現状](https://news.mynavi.jp/itsearch/seminar/1442){: target="_blank" }」, サイバーセキュリティセミナー in 東京, マイナビ TECH+／日本HP, 2025年9月16日 (基調講演)
+- 関谷 勇司 : 「[止まらない社会をつくる ITインフラとセキュリティ](https://www.sbbit.jp/eventinfo/84452){: target="_blank" }」, IT Infra Conference Online 2025 夏, SBクリエイティブ ビジネス+IT, 2025年8月1日 (基調講演)
+
+**2024**
+
+- 関谷 勇司 : 「[セキュリティ対策に DNS が欠かせない理由](https://note.com/infoblox/n/n163749e37c9c){: target="_blank" }」, Infoblox Exchange 2024 Tokyo, 東京・大手町, 2024年11月20日 (オピニオンリーダーセッション)
+- 関谷 勇司 : 「[インフラエンジニアは組織を救う](https://f2ff.jp/event/2024-1017){: target="_blank" }」, 今、求められるITインフラ 2024, 株式会社ナノオプト・メディア, 東京, 2024年10月
+- 関谷 勇司 : 「[「いま」のSD-WAN技術と今後の展望](https://members11.live.itmedia.co.jp/library/NzE3MDE%253D){: target="_blank" }」, ＠IT NETWORK Live Week 2024 夏 特別編集版, アイティメディア, 2024年 (基調講演)
+- 関谷 勇司 : 「[セキュリティ担当者が53番ポートに注意すべき理由とは](https://note.com/infoblox/n/n40cb1c1db4ba){: target="_blank" }」, Infoblox Security Seminar Series, 東京・赤坂, 2024年1月24日
+
+**2023**
+
+- 関谷 勇司 : 「[5年後のデジタル社会の信頼性と安全性を考える](https://www.a10networks.co.jp/lp_a10connect2023/index.html){: target="_blank" }」, A10 Connect 2023, 赤坂インターシティカンファレンス, 2023年12月19日 (基調講演)
+- 関谷 勇司 : 「[国際イベント開催時に受けるサイバー攻撃にひそむリスク](https://www.kankeiren.or.jp/newsfile/2023/10/post-209.html){: target="_blank" }」, サイバーセキュリティトップセミナー ～2025年大阪・関西万博開催に備えて～, 関西経済連合会, 2023年10月19日 (パネルディスカッション)
+- 関谷 勇司 : 「[ソフトウェア技術による IT インフラ構築と運用](https://www.sbbit.jp/eventinfo/74156){: target="_blank" }」, 次世代データセンター運用管理 2023, SBクリエイティブ ビジネス+IT, 2023年 (基調講演)
+
 **2022**
 
 - 関谷 勇司 : 「サイバーフィジカルシステム実現に不可欠なIT アーキテクト人材の重要性とその育成」EdgeTech 2022, ナノオプトメディア, パシフィコ横浜, 2022年11月 
@@ -474,6 +497,7 @@ permalink: /publications/
 - 関谷 勇司 : 「DX とクラウド化に対応するネットワークセキュリティモデル」, Tech+ セミナー ネットワーク Day 2022, マイナビ, 2022年10月
 - Yuji Sekiya : “Towards Re-Architect ofMobile Core Network”, NGCI Beyond 5G Workshop, The University of Tokyo, 2022年8月 
 - 関谷 勇司 : 「テレコム運用のクラウドネイティブ化における持続性の課題」, Cloud Operator Days Tokyo 2022, 2022年7月
+- 関谷 勇司 : 「[サイバー脅威検知と対策アシストへの AI 適用](https://www.youtube.com/watch?v=V8jWssR5T1A){: target="_blank" }」, 次世代知能科学研究センター 第9回連続シンポジウム「サイバー攻撃から身を守る人工知能」, 2022年7月29日
 - 関谷 勇司 : 「クラウドインフラに不可欠なストレージの高速化と超大容量」, Interop Tokyo 2022 Huawei ブース, 2022年6月
 - 関谷 勇司 : 「変革する企業ネットワークにおけるクラウド活用のあり方」, Interop Tokyo 2022 クラスルーム, 2022年6月
 
@@ -500,6 +524,7 @@ permalink: /publications/
 
 **2019**
 
+- 関谷 勇司 : 「[5G時代の高度IT化に対応するITインフラのあり方](https://www.it-career.or.jp/2019/09/02/%E7%89%87%E5%B1%B1%E3%81%95%E3%81%A4%E3%81%8D%E5%A4%A7%E8%87%A3%E3%80%81%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6-%E5%87%86%E6%95%99%E6%8E%88-%E9%96%A2%E8%B0%B7%E5%8B%87%E5%8F%B8%E6%A7%98%E3%82%92%E3%81%8A/){: target="_blank" }」, ITキャリア推進協会・FIIF 外資系情報産業研究会 第4回合同研究会, 衆議院第二議員会館, 2019年7月30日
 - 関谷 勇司 : 「SD-WAN がもたらすシステムの変革とその本質」, 複雑化したネットワーク管理からの解放セミナー, 株式会社マイナビ, 2019年9月
 - Fabrizio Granelli, Marco Tacca, and Yuji Sekiya, “2019 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN)”, Technical Program Co-Chairs, Nov. 2019.
 - 中島 佳宏, 水野 伸太郎, 関谷 勇司, 辻 広志, 宮本 元, 壬生 亮太, 長谷部 克幸 : 「Cloud Native Telecom Operator Meetup 2019」主催, 2019年11月
