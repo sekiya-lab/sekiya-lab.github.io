@@ -30,6 +30,40 @@ iframe {
     max-width: 100%;
 }
 
+
+.research-section-title {
+    position: relative;
+    margin: 0 0 1.5rem;
+    padding: 1rem 1.35rem 1rem 1.65rem;
+    overflow: hidden;
+    color: #ffffff;
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1.25;
+    letter-spacing: 0.015em;
+    border-radius: 10px;
+    box-shadow: 0 7px 18px rgba(20, 37, 63, 0.20);
+}
+
+.research-section-title::before {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 8px;
+    content: "";
+    background: rgba(255, 255, 255, 0.72);
+}
+
+.research-section-title--ongoing {
+    background: linear-gradient(135deg, #123d6a, #167ea5);
+}
+
+.research-section-title--past {
+    margin-top: 2.75rem;
+    background: linear-gradient(135deg, #4f5965, #7a8794);
+}
+
 /* Research project overview */
 
 .research-project-grid {
