@@ -9,7 +9,6 @@ permalink: /publications/
 **2026**
 
 - Daishi Kondo, Yuya Shibuya, Rie S. Yamaguchi, Tomohiro Ishihara, Yuji Sekiya, Toshiyuki Nakata, and Tohru Asami, "Assessing the Adoption of Email Security Measures After Google's New Sender Guidelines", IEEE Transactions on Network and Service Management, 2026, doi: 10.1109/TNSM.2026.3707567.
-- Haruto Ishii, Kunio Akashi and Yuji Sekiya, “STSMOTE: A Controllable Data Augmentation Method for Few-Shot Zero-Day Attack Detection in Network Intrusion Detection Systems”, The Twenty-First International Conference on Internet Monitoring and Protection (ICIMP 2026), BEST PAPER AWARD, April 2026.
 
 **2025**
 
@@ -126,6 +125,7 @@ permalink: /publications/
 
 **2026**
 
+- Haruto Ishii, Kunio Akashi and Yuji Sekiya, “STSMOTE: A Controllable Data Augmentation Method for Few-Shot Zero-Day Attack Detection in Network Intrusion Detection Systems”, The Twenty-First International Conference on Internet Monitoring and Protection (ICIMP 2026), BEST PAPER AWARD, April 2026.
 - Shoya Nakamura, Kunio Akashi, and Yuji Sekiya, "Proposal and Evaluation of a Method for Container Micro-segmentation", Innovative Security Solutions for Information Technology and Communications (SecITC 2025), Lecture Notes in Computer Science, Vol. 16443, pp. 249--261, Springer, May 2026, doi: 10.1007/978-3-032-17443-7_15.
 
 **2025**
