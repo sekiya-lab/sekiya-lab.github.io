@@ -9,6 +9,7 @@ permalink: /publications/
 **2026**
 
 - Daishi Kondo, Yuya Shibuya, Rie S. Yamaguchi, Tomohiro Ishihara, Yuji Sekiya, Toshiyuki Nakata, and Tohru Asami, "Assessing the Adoption of Email Security Measures After Google's New Sender Guidelines", IEEE Transactions on Network and Service Management, 2026, doi: 10.1109/TNSM.2026.3707567.
+- Haruto Ishii, Kunio Akashi and Yuji Sekiya, “STSMOTE: A Controllable Data Augmentation Method for Few-Shot Zero-Day Attack Detection in Network Intrusion Detection Systems”, The Twenty-First International Conference on Internet Monitoring and Protection (ICIMP 2026), BEST PAPER AWARD, April 2026.
 
 **2025**
 
