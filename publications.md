@@ -8,6 +8,7 @@ permalink: /publications/
 
 **2026**
 
+- 石井 悠人, 明石 邦夫, 関谷 勇司, “GPUと分散処理による高速かつ堅牢なネットワークフロー特徴量抽出フレームワーク”, 情報処理学会論文誌デジタルプラクティス（TDP) Vol.7, No. 3, pp. 1–12, 2026年7月15日, doi :10.20729/0002010614
 - Daishi Kondo, Yuya Shibuya, Rie S. Yamaguchi, Tomohiro Ishihara, Yuji Sekiya, Toshiyuki Nakata, and Tohru Asami, "Assessing the Adoption of Email Security Measures After Google's New Sender Guidelines", IEEE Transactions on Network and Service Management, 2026, doi: 10.1109/TNSM.2026.3707567.
 
 **2025**
