@@ -110,7 +110,7 @@ GitHub Actions のワークフローは以下のファイルで管理されて�
 
 ## 開発環境
 ### Requirements
-- Ruby 3.4.2 (ref: [.ruby-version](.ruby-version) )
+- Ruby 4.0.9 (ref: [.ruby-version](.ruby-version) )
 - Jekyll
 
 ### Install
